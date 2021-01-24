@@ -396,3 +396,49 @@
 2021-01-24T03:39:39.921Z - info: Site data built
 2021-01-24T03:39:39.922Z - info: Website generation complete! Total build time: 0.417s
 2021-01-24T03:39:39.922Z - info: Build success!
+2021-01-24T03:41:21.025Z - info: Deployed at https://tlylt.github.io/soristic_docs!
+2021-01-24T03:56:07.536Z - info: Website generation started at 11:56:07 am
+2021-01-24T03:56:07.619Z - info: Building assets...
+2021-01-24T03:56:07.666Z - info: Assets built
+2021-01-24T03:56:07.667Z - info: Generating pages...
+2021-01-24T03:56:07.905Z - info: Pages built
+2021-01-24T03:56:07.979Z - info: Site data built
+2021-01-24T03:56:07.979Z - info: Website generation complete! Total build time: 0.478s
+2021-01-24T03:56:07.995Z - info: Serving "C:\Project\soristic\soristic_docs\_site" at http://127.0.0.1:8080
+2021-01-24T03:56:07.996Z - info: Press CTRL+C to stop ...
+2021-01-24T03:56:19.346Z - info: [11:56:19 am] Reload for file change: C:\Project\soristic\soristic_docs\index.md
+2021-01-24T03:56:20.363Z - info: Rebuilding 1 pages
+2021-01-24T03:56:20.464Z - info: Site data built
+2021-01-24T03:56:20.466Z - info: Pages rebuilt
+2021-01-24T03:56:20.466Z - info: Website regeneration complete! Total build time: 0.104s
+2021-01-24T03:56:29.491Z - info: [11:56:29 am] Reload for file change: C:\Project\soristic\soristic_docs\index.md
+2021-01-24T03:56:30.499Z - info: Rebuilding 1 pages
+2021-01-24T03:56:30.556Z - info: Site data built
+2021-01-24T03:56:30.558Z - info: Pages rebuilt
+2021-01-24T03:56:30.558Z - info: Website regeneration complete! Total build time: 0.06s
+2021-01-24T03:56:33.008Z - info: [11:56:33 am] Reload for file change: C:\Project\soristic\soristic_docs\index.md
+2021-01-24T03:56:34.009Z - info: Rebuilding 1 pages
+2021-01-24T03:56:34.078Z - info: Site data built
+2021-01-24T03:56:34.078Z - info: Pages rebuilt
+2021-01-24T03:56:34.079Z - info: Website regeneration complete! Total build time: 0.07s
+2021-01-24T03:56:46.419Z - info: [11:56:46 am] Reload for file change: C:\Project\soristic\soristic_docs\index.md
+2021-01-24T03:56:47.428Z - info: Rebuilding 1 pages
+2021-01-24T03:56:47.475Z - info: Site data built
+2021-01-24T03:56:47.476Z - info: Pages rebuilt
+2021-01-24T03:56:47.476Z - info: Website regeneration complete! Total build time: 0.049s
+2021-01-24T03:57:16.570Z - info: [11:57:16 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\footers\footer.md
+2021-01-24T03:57:17.579Z - info: Rebuilding 1 pages
+2021-01-24T03:57:17.622Z - info: Site data built
+2021-01-24T03:57:17.623Z - info: Pages rebuilt
+2021-01-24T03:57:17.623Z - info: Website regeneration complete! Total build time: 0.044s
+2021-01-24T03:57:19.090Z - info: [11:57:19 am] Reload for file change: C:\Project\soristic\soristic_docs\site.json
+2021-01-24T03:57:20.105Z - info: Assets built
+2021-01-24T03:57:26.436Z - info: Website generation started at 11:57:26 am
+2021-01-24T03:57:26.516Z - info: Building assets...
+2021-01-24T03:57:26.562Z - info: Assets built
+2021-01-24T03:57:26.563Z - info: Generating pages...
+2021-01-24T03:57:26.794Z - info: Pages built
+2021-01-24T03:57:26.861Z - info: Site data built
+2021-01-24T03:57:26.861Z - info: Website generation complete! Total build time: 0.46s
+2021-01-24T03:57:26.861Z - info: Build success!
+2021-01-24T03:57:31.126Z - info: Deployed at https://tlylt.github.io/soristic_docs!

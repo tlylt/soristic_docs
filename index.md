@@ -24,6 +24,8 @@
 - Event
 - Homepage banner
 
+Following actions require you to login with your account.
+
 ---
 
 ## Publication
@@ -51,7 +53,7 @@
 - Click `Publish` to make it visible to all
 - View collected download statistics by
   - Go to `Dashboard`
-  - on the left menu, click on `downloaders`
+  - On the left menu, click on `downloaders`
   - Each download will be listed here
   - Click on one to look at the details
 
@@ -97,9 +99,10 @@
 
 ## Homepage banner
 
-- On the homepage, make sure you are signed in
+- On the homepage(soristic.asia), make sure you are signed in
 - On the top menu bar, click on `Edit with Elementor`
-- Click on the top hero section, on the left menu, it should change to `Banner Slider Content`
+- Click on any place of the top banner section,
+- On the left menu, it should change to `Banner Slider Content`
 - In the Slider list, click on individual item to make changes, E.g.
   - Click on `item #1`
     - Change the background image
@@ -107,7 +110,6 @@
     - Change the Banner content
     - Change Button title
     - Change Button link
-      - Event image
 - After every change, the site will be updated for you to preview the changes
 - Click on bottom left `UPDATE` button to save and make it visible to all
 - Close the page and changes should be reflected on homepage
