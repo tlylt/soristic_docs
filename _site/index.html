@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="MarkBind 2.17.3">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Soristic Home</title>
+  <link rel="stylesheet" href="markbind/css/bootstrap.min.css">
+  <link rel="stylesheet" href="markbind/css/bootstrap-vue.min.css">
+  <link rel="stylesheet" href="markbind/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="markbind/glyphicons/css/bootstrap-glyphicons.min.css">
+  <link rel="stylesheet" href="markbind/css/octicons.css">
+  <link rel="stylesheet" href="markbind/css/codeblock-dark.min.css">
+  <link rel="stylesheet" href="markbind/css/markbind.min.css">
+  <script src="markbind/js/polyfill.min.js"></script>
+  <script src="markbind/js/vue.min.js"></script>
+  <script src="markbind/js/markbind.min.js"></script>
+  <script src="markbind/js/jquery.min.js"></script>
+  <link rel="stylesheet" href="/soristic_docs/plugins/markbind-plugin-anchors/markbind-plugin-anchors.css">
+  <link rel="stylesheet" href="markbind/layouts/default/styles.css">
+</head>
+
+<body data-spy="scroll" data-target="#page-nav" data-offset="100">
+  <div id="app">
+    <header>
+      <navbar type="dark" class="temp-navbar">
+        <a slot="brand" href="/soristic_docs/index.html" title="Home" class="navbar-brand">Soristic Docs</a>
+        <li slot="right">
+          <form class="navbar-form">
+            <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
+          </form>
+        </li>
+      </navbar>
+    </header>
+    <div id="flex-body">
+      <nav id="site-nav" class="navbar navbar-light bg-transparent">
+        <div class="border-right-grey nav-inner position-sticky slim-scroll">
+          <ul class="site-nav-list site-nav-list-root">
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/soristic_docs/index.html" class="current">Home 🏠</a></div>
+            </li>
+          </ul>
+        </div>
+      </nav>
+
+
+      <div id="content-wrapper">
+        <br>
+        <div class="jumbotron jumbotron-fluid bg-dark text-white">
+          <div class="container">
+            <h1 class="display-4 no-index" id="soristic-docs"><span id="soristic-docs" class="anchor"></span>Soristic Docs<a class="fa fa-anchor" href="#soristic-docs" onclick="event.stopPropagation()"></a></h1>
+            <p class="lead">Documentation & Guides for IT resources</p>
+          </div>
+        </div>
+        <h1 id="soristic-asia"><span id="soristic-asia" class="anchor"></span><a href="http://Soristic.asia">Soristic.asia</a><a class="fa fa-anchor" href="#soristic-asia" onclick="event.stopPropagation()"></a></h1>
+        <p><strong>Topics:</strong></p>
+        <ul>
+          <li>Publication</li>
+          <li>Blog posts</li>
+          <li>Event</li>
+          <li>Homepage banner</li>
+        </ul>
+        <hr>
+        <h2 id="publication"><span id="publication" class="anchor"></span>Publication<a class="fa fa-anchor" href="#publication" onclick="event.stopPropagation()"></a></h2>
+        <ul>
+          <li>Upload the PDF document of the new publication by
+            <ul>
+              <li>Go to <code class="hljs inline no-lang" v-pre>Dashboard</code></li>
+              <li>On the left menu, click on <code class="hljs inline no-lang" v-pre>Media</code> -&gt; <code class="hljs inline no-lang" v-pre>Add New</code></li>
+              <li>View the uploaded item in <code class="hljs inline no-lang" v-pre>Media</code> -&gt; <code class="hljs inline no-lang" v-pre>Library</code></li>
+              <li>Copy the <code class="hljs inline no-lang" v-pre>file URL</code> to clipboard</li>
+            </ul>
+          </li>
+          <li>Go to <code class="hljs inline no-lang" v-pre>Dashboard</code></li>
+          <li>On the left menu, click on <code class="hljs inline no-lang" v-pre>publications</code></li>
+          <li>Click <code class="hljs inline no-lang" v-pre>Add New</code></li>
+          <li>Add relevant title and body text, pay attention to
+            <ul>
+              <li>On the right menu, choose the right
+                <ul>
+                  <li>Author (Switch to Admin)</li>
+                  <li>Categories (Either sector or soristic)</li>
+                  <li>Featured images</li>
+                </ul>
+              </li>
+              <li>Within the body of publication, add publication download form by
+                <ul>
+                  <li>Click on the square <code class="hljs inline no-lang" v-pre>+</code></li>
+                  <li>Select or search for <code class="hljs inline no-lang" v-pre>Post Snippets</code></li>
+                  <li>From the added Snippet, click on <code class="hljs inline no-lang" v-pre>----</code> and select <code class="hljs inline no-lang" v-pre>publication</code> from the dropdown</li>
+                  <li>Enter the copied file URL into the link box, ensure that you remove the <code class="hljs inline no-lang" v-pre>https://soristic.asia/</code></li>
+                  <li>E.g. only copy in <code class="hljs inline no-lang" v-pre>/wp-content/uploads/2021/01/Philanthropic-Foundations-In-Asia.pdf</code></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>Click <code class="hljs inline no-lang" v-pre>Preview</code> to preview before visible to public</li>
+          <li>Click <code class="hljs inline no-lang" v-pre>Publish</code> to make it visible to all</li>
+          <li>View collected download statistics by
+            <ul>
+              <li>Go to <code class="hljs inline no-lang" v-pre>Dashboard</code></li>
+              <li>on the left menu, click on <code class="hljs inline no-lang" v-pre>downloaders</code></li>
+              <li>Each download will be listed here</li>
+              <li>Click on one to look at the details</li>
+            </ul>
+          </li>
+        </ul>
+        <hr>
+        <h2 id="blog-post"><span id="blog-post" class="anchor"></span>Blog post<a class="fa fa-anchor" href="#blog-post" onclick="event.stopPropagation()"></a></h2>
+        <ul>
+          <li>Go to <code class="hljs inline no-lang" v-pre>Dashboard</code></li>
+          <li>On the left menu, click on <code class="hljs inline no-lang" v-pre>Posts</code></li>
+          <li>Click <code class="hljs inline no-lang" v-pre>Add New</code></li>
+          <li>Add relevant title and body text, pay attention to
+            <ul>
+              <li>On the right menu, choose the right
+                <ul>
+                  <li>Author (Switch to Admin)</li>
+                  <li>Categories (Choose Main Blog)</li>
+                  <li>Featured images</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>Click <code class="hljs inline no-lang" v-pre>Preview</code> to preview before visible to public</li>
+          <li>Click <code class="hljs inline no-lang" v-pre>Publish</code> to make it visible to all</li>
+        </ul>
+        <hr>
+        <h2 id="event"><span id="event" class="anchor"></span>Event<a class="fa fa-anchor" href="#event" onclick="event.stopPropagation()"></a></h2>
+        <ul>
+          <li>Go to <code class="hljs inline no-lang" v-pre>Dashboard</code></li>
+          <li>On the left menu, click on <code class="hljs inline no-lang" v-pre>Events</code></li>
+          <li>Click <code class="hljs inline no-lang" v-pre>Add New</code></li>
+          <li>Add relevant title and body text, pay attention to
+            <ul>
+              <li>On the right menu, choose the right
+                <ul>
+                  <li>Event Categories (Choose Main Events)</li>
+                  <li>Featured images</li>
+                </ul>
+              </li>
+              <li>Scrolling down, fill in the details of
+                <ul>
+                  <li>The Events Calendar component
+                    <ul>
+                      <li>Time &amp; Date</li>
+                      <li>Location</li>
+                      <li>Organizers</li>
+                      <li>Event Website</li>
+                    </ul>
+                  </li>
+                  <li>Design Settings
+                    <ul>
+                      <li>Event image</li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li>Check previous event as an example/guide</li>
+            </ul>
+          </li>
+          <li>Click <code class="hljs inline no-lang" v-pre>Preview</code> to preview before visible to public</li>
+          <li>Click <code class="hljs inline no-lang" v-pre>Publish</code> to make it visible to all</li>
+        </ul>
+        <hr>
+        <h2 id="homepage-banner"><span id="homepage-banner" class="anchor"></span>Homepage banner<a class="fa fa-anchor" href="#homepage-banner" onclick="event.stopPropagation()"></a></h2>
+        <ul>
+          <li>On the homepage, make sure you are signed in</li>
+          <li>On the top menu bar, click on <code class="hljs inline no-lang" v-pre>Edit with Elementor</code></li>
+          <li>Click on the top hero section, on the left menu, it should change to <code class="hljs inline no-lang" v-pre>Banner Slider Content</code></li>
+          <li>In the Slider list, click on individual item to make changes, E.g.
+            <ul>
+              <li>Click on <code class="hljs inline no-lang" v-pre>item #1</code>
+                <ul>
+                  <li>Change the background image</li>
+                  <li>Change the Banner title</li>
+                  <li>Change the Banner content</li>
+                  <li>Change Button title</li>
+                  <li>Change Button link
+                    <ul>
+                      <li>Event image</li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>After every change, the site will be updated for you to preview the changes</li>
+          <li>Click on bottom left <code class="hljs inline no-lang" v-pre>UPDATE</code> button to save and make it visible to all</li>
+          <li>Close the page and changes should be reflected on homepage</li>
+        </ul>
+        <hr>
+        <p><i class="fa fa-arrow-circle-up fa-lg" id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true"></i></p>
+      </div>
+      <nav id="page-nav" class="navbar navbar-light bg-transparent">
+        <div class="border-left-grey nav-inner position-sticky slim-scroll">
+          <a class="navbar-brand page-nav-title" href="#">Soristic Docs</a>
+          <nav class="nav nav-pills flex-column my-0 small no-flex-wrap">
+            <a class="nav-link py-1" href="#soristic-asia">Soristic.asia&#x200E;</a>
+            <nav class="nav nav-pills flex-column my-0 nested no-flex-wrap">
+              <a class="nav-link py-1" href="#publication">Publication&#x200E;</a>
+              <a class="nav-link py-1" href="#blog-post">Blog post&#x200E;</a>
+              <a class="nav-link py-1" href="#event">Event&#x200E;</a>
+              <a class="nav-link py-1" href="#homepage-banner">Homepage banner&#x200E;</a>
+            </nav>
+
+          </nav>
+        </div>
+      </nav>
+    </div>
+    <footer>
+
+      <div class="text-center">
+        <small>[Generated by <a href="https://markbind.org/">MarkBind 2.17.3</a>, This site is maintained by Yongliang]</small>
+      </div>
+    </footer>
+  </div>
+</body>
+<script src="markbind/js/bootstrap-utility.min.js"></script>
+<script>
+  const baseUrl = '/soristic_docs'
+  MarkBind.setupWithSearch()
+</script>
+<script src="markbind/layouts/default/scripts.js"></script>
+<script>
+  if (MarkBind.AfterSetup) MarkBind.AfterSetup()
+</script>
+
+</html>

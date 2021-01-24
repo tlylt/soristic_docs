@@ -1,128 +1,115 @@
 <frontmatter>
   header: header.md
   pageNav: 2
-  pageNavTitle: "Chapters of This Page"
+  pageNavTitle: "Soristic Docs"
   siteNav: site-nav.md
+  footer: footer.md
 </frontmatter>
 
 <br>
 
-<div class="jumbotron jumbotron-fluid bg-primary text-white">
+<div class="jumbotron jumbotron-fluid bg-dark text-white">
   <div class="container">
-    <h1 class="display-4 no-index">Landing Page Title</h1>
-    <p class="lead">A tagline can go here</p>
+    <h1 class="display-4 no-index">Soristic Docs</h1>
+    <p class="lead">Documentation & Guides for IT resources</p>
   </div>
 </div>
 
-# Heading 1
-Some text some text some text some text some text some text some text. **Some text some text some text some text some text ==some text== some text**. Some text some text some text some text some text some text some text some text some text some text some text some text some text some text. Some text some text some text some text some text some text. Some text some text some text some text some text some text some text.
+# Soristic.asia
 
-**A block quote:**
+**Topics:**
 
-> Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text some text some text some text some text some text some text some text. Some text some text some text some text some text some text. Some text some text some text some text some text some text some text.
+- Publication
+- Blog posts
+- Event
+- Homepage banner
 
-**A list:**
+---
 
-* item A
-* item B
-  1. item b1
-  1. item b2
-  1. item b3
+## Publication
 
-**A `code` example:**
+- Upload the PDF document of the new publication by
+  - Go to `Dashboard`
+  - On the left menu, click on `Media` -> `Add New`
+  - View the uploaded item in `Media` -> `Library`
+  - Copy the `file URL` to clipboard
+- Go to `Dashboard`
+- On the left menu, click on `publications`
+- Click `Add New`
+- Add relevant title and body text, pay attention to
+  - On the right menu, choose the right
+    - Author (Switch to Admin)
+    - Categories (Either sector or soristic)
+    - Featured images
+  - Within the body of publication, add publication download form by
+    - Click on the square `+`
+    - Select or search for `Post Snippets`
+    - From the added Snippet, click on `----` and select `publication` from the dropdown
+    - Enter the copied file URL into the link box, ensure that you remove the `https://soristic.asia/`
+    - E.g. only copy in `/wp-content/uploads/2021/01/Philanthropic-Foundations-In-Asia.pdf`
+- Click `Preview` to preview before visible to public
+- Click `Publish` to make it visible to all
+- View collected download statistics by
+  - Go to `Dashboard`
+  - on the left menu, click on `downloaders`
+  - Each download will be listed here
+  - Click on one to look at the details
 
-```html
-<foo>
-  <bar type="name">goo</bar>
-</foo>
-```
+---
 
-## Sub Heading 1.1
+## Blog post
 
-A <tooltip effect="scale" content=":exclamation: some **important explanation**" placement="top" trigger="hover">tooltip</tooltip>, a <trigger for="modal:modalinfo" trigger="click">modal</trigger>, a <a href="https://markbind.org/">link</a>, a <span class="badge badge-danger">badge</span>, another <span class="badge badge-warning">badge</span>.
+- Go to `Dashboard`
+- On the left menu, click on `Posts`
+- Click `Add New`
+- Add relevant title and body text, pay attention to
+  - On the right menu, choose the right
+    - Author (Switch to Admin)
+    - Categories (Choose Main Blog)
+    - Featured images
+- Click `Preview` to preview before visible to public
+- Click `Publish` to make it visible to all
 
-<modal header="Modal Title" id="modal:modalinfo">
-Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text some text some text some text some text some text some text some text. Some text some text some text some text some text some text. Some text some text some text some text some text some text some text.
-</modal>
+---
 
-**A table:**
+## Event
 
-Column 1 | Column 2 | Column 3 | :far-thumbs-up: / :far-thumbs-down:?
-:------: | :------: | :------: | ----
-value1   | x        | 5        | :far-thumbs-up:
-value2   | y        | 20       | :far-thumbs-down:
+- Go to `Dashboard`
+- On the left menu, click on `Events`
+- Click `Add New`
+- Add relevant title and body text, pay attention to
+  - On the right menu, choose the right
+    - Event Categories (Choose Main Events)
+    - Featured images
+  - Scrolling down, fill in the details of
+    - The Events Calendar component
+      - Time & Date
+      - Location
+      - Organizers
+      - Event Website
+    - Design Settings
+      - Event image
+  - Check previous event as an example/guide
+- Click `Preview` to preview before visible to public
+- Click `Publish` to make it visible to all
 
+---
 
-## Sub Heading 1.2
+## Homepage banner
 
-**Media embeds:**
+- On the homepage, make sure you are signed in
+- On the top menu bar, click on `Edit with Elementor`
+- Click on the top hero section, on the left menu, it should change to `Banner Slider Content`
+- In the Slider list, click on individual item to make changes, E.g.
+  - Click on `item #1`
+    - Change the background image
+    - Change the Banner title
+    - Change the Banner content
+    - Change Button title
+    - Change Button link
+      - Event image
+- After every change, the site will be updated for you to preview the changes
+- Click on bottom left `UPDATE` button to save and make it visible to all
+- Close the page and changes should be reflected on homepage
 
-@[youtube](http://www.youtube.com/watch?v=v40b3ExbM0c)
-
-**Tabs:**
-
-<tabs>
-  <tab header="Tab X">
-    Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text some text some text some text some text some text some text some text. Some text some text some text some text some text some text. Some text some text some text some text some text some text some text.
-  </tab>
-  <tab header="Tab Y">
-    ...
-  </tab>
-  <tab-group header="Tab group">
-    <tab header="Tab Y.1">
-      ...
-    </tab>
-    <tab header="Tab Y.2">
-      ...
-    </tab>
-  </tab-group>
-</tabs>
-
-<br>
-
-# Heading 2
-
-**Some boxes:**
-
-<box>
-    default
-</box>
-<box type="info">
-    info
-</box>
-<box type="warning" dismissible>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</box>
-<box type="tip" header="Tip box heading">
-    tip
-</box>
-<box type="success" header="Tip box heading">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</box>
-<box type="important" dismissible header="Tip box heading">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</box>
-
-<br>
-
-# Heading 3
-
-<panel header="Expandable panel" type="info">
-  Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text some text some text some text some text some text some text some text. Some text some text some text some text some text some text. Some text some text some text some text some text some text some text.
-</panel>
-<br>
-<panel header="Expanded panel" alt="Minimized panel" type="success" minimized>
-  ...
-</panel>
-<br>
-<panel header="Expanded panel" alt="Minimized panel" type="seamless">
-  ...
-</panel>
-<br>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-<panel header="___Minimal panel **->**___" type="minimal" alt="Minimal panel" popup-url="https://markbind.org/userGuide/usingComponents.html#panels" no-switch>
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</panel>
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
