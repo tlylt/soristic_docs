@@ -49,6 +49,7 @@ Following actions require you to login with your account.
     - From the added Snippet, click on `----` and select `publication` from the dropdown
     - Enter the copied file URL into the link box, ensure that you remove the `https://soristic.asia/`
     - E.g. only copy in `/wp-content/uploads/2021/01/Philanthropic-Foundations-In-Asia.pdf`
+    - Note: must remember to follow the format above exactly, e.g. it has to start with '/'. After adding the publication, try filling up the form and verify if the download is successful.
 - Click `Preview` to preview before visible to public
 - Click `Publish` to make it visible to all
 - View collected download statistics by
