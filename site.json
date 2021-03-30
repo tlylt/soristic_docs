@@ -19,6 +19,10 @@
     },
     {
       "glob": ["**/index.md", "**/*.+(md|mbd)"]
+    },
+    {
+      "src": "dashboard.html",
+      "title": "Soristic Dashboard"
     }
   ],
   "deploy": {
