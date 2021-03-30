@@ -2,11 +2,9 @@
   "enableSearch": true,
   "pages": [
     {
-      "src": "contents/topic1.md",
+      "src": "contents/dashboard.md",
       "title": "",
-      "headings": {
-        "topic-1": "Topic 1"
-      },
+      "headings": {},
       "headingKeywords": {}
     },
     {
@@ -35,7 +33,8 @@
         "publication": "Publication",
         "blog-post": "Blog post",
         "event": "Event",
-        "homepage-banner": "Homepage banner"
+        "homepage-banner": "Homepage banner",
+        "dashboard": "Dashboard"
       },
       "headingKeywords": {}
     }

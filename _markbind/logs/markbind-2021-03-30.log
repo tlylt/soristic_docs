@@ -17,3 +17,534 @@
 2021-03-30T01:58:16.795Z - info: Assets built
 2021-03-30T01:58:18.090Z - info: [9:58:18 am] Reload for file change: C:\Project\soristic\soristic_docs\site.json
 2021-03-30T01:58:19.101Z - info: Assets built
+2021-03-30T01:59:08.720Z - info: Website generation started at 9:59:08 am
+2021-03-30T01:59:08.806Z - info: Building assets...
+2021-03-30T01:59:08.857Z - info: Assets built
+2021-03-30T01:59:08.858Z - info: Generating pages...
+2021-03-30T01:59:09.126Z - info: Pages built
+2021-03-30T01:59:09.210Z - info: Site data built
+2021-03-30T01:59:09.211Z - info: Website generation complete! Total build time: 0.527s
+2021-03-30T01:59:09.228Z - info: Serving "C:\Project\soristic\soristic_docs\_site" at http://127.0.0.1:8080
+2021-03-30T01:59:09.228Z - info: Press CTRL+C to stop ...
+2021-03-30T01:59:43.502Z - info: Website generation started at 9:59:43 am
+2021-03-30T01:59:43.590Z - info: Building assets...
+2021-03-30T01:59:43.639Z - info: Assets built
+2021-03-30T01:59:43.640Z - info: Generating pages...
+2021-03-30T01:59:43.878Z - info: Pages built
+2021-03-30T01:59:43.963Z - info: Site data built
+2021-03-30T01:59:43.964Z - info: Website generation complete! Total build time: 0.499s
+2021-03-30T01:59:43.982Z - info: Serving "C:\Project\soristic\soristic_docs\_site" at http://127.0.0.1:8080
+2021-03-30T01:59:43.982Z - info: Press CTRL+C to stop ...
+2021-03-30T02:05:07.215Z - info: [10:05:07 am] Reload for file change: C:\Project\soristic\soristic_docs\dashboard.html
+2021-03-30T02:05:08.235Z - info: Assets built
+2021-03-30T02:05:52.292Z - info: [10:05:52 am] Reload for file change: C:\Project\soristic\soristic_docs\dashboard.html
+2021-03-30T02:05:53.306Z - info: Assets built
+2021-03-30T02:06:07.054Z - info: [10:06:07 am] Reload for file change: C:\Project\soristic\soristic_docs\index.md
+2021-03-30T02:06:08.065Z - info: Rebuilding 1 pages
+2021-03-30T02:06:08.172Z - info: Site data built
+2021-03-30T02:06:08.173Z - info: Pages rebuilt
+2021-03-30T02:06:08.173Z - info: Website regeneration complete! Total build time: 0.109s
+2021-03-30T02:06:10.370Z - info: [10:06:10 am] Reload for file change: C:\Project\soristic\soristic_docs\index.md
+2021-03-30T02:06:11.379Z - info: Rebuilding 1 pages
+2021-03-30T02:06:11.433Z - info: Site data built
+2021-03-30T02:06:11.433Z - info: Pages rebuilt
+2021-03-30T02:06:11.433Z - info: Website regeneration complete! Total build time: 0.054s
+2021-03-30T02:06:26.523Z - info: [10:06:26 am] Reload for file change: C:\Project\soristic\soristic_docs\index.md
+2021-03-30T02:06:27.528Z - info: Rebuilding 1 pages
+2021-03-30T02:06:27.598Z - info: Site data built
+2021-03-30T02:06:27.599Z - info: Pages rebuilt
+2021-03-30T02:06:27.599Z - info: Website regeneration complete! Total build time: 0.072s
+2021-03-30T02:06:34.192Z - info: [10:06:34 am] Reload for file change: C:\Project\soristic\soristic_docs\index.md
+2021-03-30T02:06:35.202Z - info: Rebuilding 1 pages
+2021-03-30T02:06:35.265Z - info: Site data built
+2021-03-30T02:06:35.265Z - info: Pages rebuilt
+2021-03-30T02:06:35.266Z - info: Website regeneration complete! Total build time: 0.064s
+2021-03-30T02:07:29.851Z - info: [10:07:29 am] Reload for file change: C:\Project\soristic\soristic_docs\dashboard.html
+2021-03-30T02:07:30.862Z - info: Assets built
+2021-03-30T02:12:37.442Z - info: [10:12:37 am] Reload for file change: C:\Project\soristic\soristic_docs\dashboard.html
+2021-03-30T02:12:38.460Z - info: Assets built
+2021-03-30T02:12:58.036Z - info: [10:12:58 am] Reload for file change: C:\Project\soristic\soristic_docs\dashboard.html
+2021-03-30T02:12:59.040Z - info: Assets built
+2021-03-30T02:14:29.754Z - info: [10:14:29 am] Reload for file change: C:\Project\soristic\soristic_docs\dashboard.html
+2021-03-30T02:14:30.766Z - info: Assets built
+2021-03-30T02:14:53.772Z - info: [10:14:53 am] Reload for file change: C:\Project\soristic\soristic_docs\dashboard.html
+2021-03-30T02:14:54.781Z - info: Assets built
+2021-03-30T02:15:08.424Z - info: [10:15:08 am] Reload for file change: C:\Project\soristic\soristic_docs\dashboard.html
+2021-03-30T02:15:09.440Z - info: Assets built
+2021-03-30T02:15:24.095Z - info: [10:15:24 am] Reload for file change: C:\Project\soristic\soristic_docs\dashboard.html
+2021-03-30T02:15:25.109Z - info: Assets built
+2021-03-30T02:15:32.259Z - info: [10:15:32 am] Reload for file change: C:\Project\soristic\soristic_docs\dashboard.html
+2021-03-30T02:15:33.275Z - info: Assets built
+2021-03-30T02:16:05.455Z - info: [10:16:05 am] Reload for file change: C:\Project\soristic\soristic_docs\dashboard.html
+2021-03-30T02:16:06.466Z - info: Assets built
+2021-03-30T02:16:30.200Z - info: [10:16:30 am] Reload for file change: C:\Project\soristic\soristic_docs\dashboard.html
+2021-03-30T02:16:31.207Z - info: Assets built
+2021-03-30T02:16:48.225Z - info: [10:16:48 am] Reload for file change: C:\Project\soristic\soristic_docs\dashboard.html
+2021-03-30T02:16:49.240Z - info: Assets built
+2021-03-30T02:17:06.538Z - info: [10:17:06 am] Reload for file change: C:\Project\soristic\soristic_docs\dashboard.html
+2021-03-30T02:17:07.548Z - info: Assets built
+2021-03-30T02:18:17.575Z - info: [10:18:17 am] Reload for file change: C:\Project\soristic\soristic_docs\dashboard.html
+2021-03-30T02:18:18.592Z - info: Assets built
+2021-03-30T02:18:22.473Z - info: [10:18:22 am] Reload for file change: C:\Project\soristic\soristic_docs\dashboard.html
+2021-03-30T02:18:23.492Z - info: Assets built
+2021-03-30T02:20:55.650Z - info: [10:20:55 am] Reload for file change: C:\Project\soristic\soristic_docs\dashboard.html
+2021-03-30T02:20:56.654Z - info: Assets built
+2021-03-30T02:21:49.340Z - info: [10:21:49 am] Reload for file change: C:\Project\soristic\soristic_docs\dashboard.html
+2021-03-30T02:21:50.345Z - info: Assets built
+2021-03-30T02:25:27.629Z - info: [10:25:27 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\variables.md
+2021-03-30T02:25:28.632Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-03-30T02:25:28.633Z - info: Rebuilding 5 pages
+2021-03-30T02:25:28.745Z - info: Site data built
+2021-03-30T02:25:28.745Z - info: Pages rebuilt
+2021-03-30T02:25:28.746Z - info: Website regeneration complete! Total build time: 0.115s
+2021-03-30T02:27:23.915Z - info: [10:27:23 am] Reload for file add: C:\Project\soristic\soristic_docs\tabulator.min.js
+2021-03-30T02:27:24.936Z - info: Assets built
+2021-03-30T02:27:39.021Z - info: [10:27:39 am] Reload for file add: C:\Project\soristic\soristic_docs\tabulator.min.css
+2021-03-30T02:27:40.027Z - info: Assets built
+2021-03-30T02:27:51.375Z - info: [10:27:51 am] Reload for file change: C:\Project\soristic\soristic_docs\index.md
+2021-03-30T02:27:52.380Z - info: Rebuilding 1 pages
+2021-03-30T02:27:52.431Z - info: Site data built
+2021-03-30T02:27:52.431Z - info: Pages rebuilt
+2021-03-30T02:27:52.431Z - info: Website regeneration complete! Total build time: 0.051s
+2021-03-30T02:29:08.217Z - info: [10:29:08 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\headers\header.md
+2021-03-30T02:29:09.222Z - info: Rebuilding 5 pages
+2021-03-30T02:29:09.336Z - info: Site data built
+2021-03-30T02:29:09.337Z - info: Pages rebuilt
+2021-03-30T02:29:09.337Z - info: Website regeneration complete! Total build time: 0.116s
+2021-03-30T02:29:24.962Z - info: [10:29:24 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\headers\header.md
+2021-03-30T02:29:25.967Z - info: Rebuilding 5 pages
+2021-03-30T02:29:26.060Z - info: Site data built
+2021-03-30T02:29:26.061Z - info: Pages rebuilt
+2021-03-30T02:29:26.061Z - info: Website regeneration complete! Total build time: 0.095s
+2021-03-30T02:29:46.973Z - info: [10:29:46 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\headers\header.md
+2021-03-30T02:29:47.984Z - info: Rebuilding 5 pages
+2021-03-30T02:29:48.075Z - info: Site data built
+2021-03-30T02:29:48.076Z - info: Pages rebuilt
+2021-03-30T02:29:48.076Z - info: Website regeneration complete! Total build time: 0.093s
+2021-03-30T02:30:02.910Z - info: [10:30:02 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\variables.md
+2021-03-30T02:30:03.925Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-03-30T02:30:03.925Z - info: Rebuilding 5 pages
+2021-03-30T02:30:04.017Z - info: Site data built
+2021-03-30T02:30:04.017Z - info: Pages rebuilt
+2021-03-30T02:30:04.018Z - info: Website regeneration complete! Total build time: 0.096s
+2021-03-30T02:30:36.751Z - info: [10:30:36 am] Reload for file deletion: C:\Project\soristic\soristic_docs\dashboard.html
+2021-03-30T02:30:37.769Z - debug: Assets removed
+2021-03-30T02:32:07.179Z - info: [10:32:07 am] Reload for file change: C:\Project\soristic\soristic_docs\contents\topic1.md
+2021-03-30T02:32:08.188Z - info: Rebuilding 1 pages
+2021-03-30T02:32:08.236Z - info: Site data built
+2021-03-30T02:32:08.236Z - info: Pages rebuilt
+2021-03-30T02:32:08.237Z - info: Website regeneration complete! Total build time: 0.048s
+2021-03-30T02:32:20.819Z - info: [10:32:20 am] Reload for file add: C:\Project\soristic\soristic_docs\contents\dashboard.md
+2021-03-30T02:32:20.926Z - info: [10:32:20 am] Reload for file deletion: C:\Project\soristic\soristic_docs\contents\topic1.md
+2021-03-30T02:32:21.833Z - info: Page added or removed, updating list of site's pages...
+2021-03-30T02:32:22.843Z - debug: Assets removed
+2021-03-30T02:32:22.843Z - warn: Rebuilding all pages...
+2021-03-30T02:32:22.843Z - info: Generating pages...
+2021-03-30T02:32:22.986Z - info: Pages built
+2021-03-30T02:32:26.465Z - info: [10:32:26 am] Reload for file change: C:\Project\soristic\soristic_docs\contents\dashboard.md
+2021-03-30T02:32:27.473Z - info: Rebuilding 1 pages
+2021-03-30T02:32:27.497Z - info: Site data built
+2021-03-30T02:32:27.498Z - info: Pages rebuilt
+2021-03-30T02:32:27.498Z - info: Website regeneration complete! Total build time: 0.026s
+2021-03-30T02:32:53.063Z - info: Website generation started at 10:32:53 am
+2021-03-30T02:32:53.153Z - info: Building assets...
+2021-03-30T02:32:53.202Z - info: Assets built
+2021-03-30T02:32:53.203Z - info: Generating pages...
+2021-03-30T02:32:53.450Z - info: Pages built
+2021-03-30T02:32:53.535Z - info: Site data built
+2021-03-30T02:32:53.536Z - info: Website generation complete! Total build time: 0.51s
+2021-03-30T02:32:53.557Z - info: Serving "C:\Project\soristic\soristic_docs\_site" at http://127.0.0.1:8080
+2021-03-30T02:32:53.557Z - info: Press CTRL+C to stop ...
+2021-03-30T02:33:38.653Z - info: [10:33:38 am] Reload for file change: C:\Project\soristic\soristic_docs\contents\dashboard.md
+2021-03-30T02:33:39.660Z - info: Rebuilding 1 pages
+2021-03-30T02:33:39.711Z - info: Site data built
+2021-03-30T02:33:39.711Z - info: Pages rebuilt
+2021-03-30T02:33:39.711Z - info: Website regeneration complete! Total build time: 0.052s
+2021-03-30T02:33:47.148Z - info: [10:33:47 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md
+2021-03-30T02:33:48.157Z - info: Rebuilding 5 pages
+2021-03-30T02:33:48.171Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/soristic_docs/contents/dashboard' found in file 'C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md'
+2021-03-30T02:33:48.197Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/soristic_docs/contents/dashboard' found in file 'C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md'
+2021-03-30T02:33:48.210Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/soristic_docs/contents/dashboard' found in file 'C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md'
+2021-03-30T02:33:48.223Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/soristic_docs/contents/dashboard' found in file 'C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md'
+2021-03-30T02:33:48.309Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/soristic_docs/contents/dashboard' found in file 'C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md'
+2021-03-30T02:33:48.381Z - info: Site data built
+2021-03-30T02:33:48.381Z - info: Pages rebuilt
+2021-03-30T02:33:48.381Z - info: Website regeneration complete! Total build time: 0.225s
+2021-03-30T02:34:01.521Z - info: [10:34:01 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md
+2021-03-30T02:34:02.530Z - info: Rebuilding 5 pages
+2021-03-30T02:34:02.541Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/soristic_docs/contents/dashboard' found in file 'C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md'
+2021-03-30T02:34:02.559Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/soristic_docs/contents/dashboard' found in file 'C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md'
+2021-03-30T02:34:02.565Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/soristic_docs/contents/dashboard' found in file 'C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md'
+2021-03-30T02:34:02.572Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/soristic_docs/contents/dashboard' found in file 'C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md'
+2021-03-30T02:34:02.617Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/soristic_docs/contents/dashboard' found in file 'C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md'
+2021-03-30T02:34:02.652Z - info: Site data built
+2021-03-30T02:34:02.652Z - info: Pages rebuilt
+2021-03-30T02:34:02.652Z - info: Website regeneration complete! Total build time: 0.122s
+2021-03-30T02:34:09.887Z - info: [10:34:09 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md
+2021-03-30T02:34:10.903Z - info: Rebuilding 5 pages
+2021-03-30T02:34:11.016Z - info: Site data built
+2021-03-30T02:34:11.016Z - info: Pages rebuilt
+2021-03-30T02:34:11.016Z - info: Website regeneration complete! Total build time: 0.114s
+2021-03-30T02:34:19.136Z - info: [10:34:19 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md
+2021-03-30T02:34:20.144Z - info: Rebuilding 5 pages
+2021-03-30T02:34:20.249Z - info: Site data built
+2021-03-30T02:34:20.250Z - info: Pages rebuilt
+2021-03-30T02:34:20.250Z - info: Website regeneration complete! Total build time: 0.107s
+2021-03-30T02:42:05.639Z - info: [10:42:05 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md
+2021-03-30T02:42:06.650Z - info: Rebuilding 5 pages
+2021-03-30T02:42:06.750Z - info: Site data built
+2021-03-30T02:42:06.751Z - info: Pages rebuilt
+2021-03-30T02:42:06.751Z - info: Website regeneration complete! Total build time: 0.102s
+2021-03-30T02:42:24.979Z - info: [10:42:24 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md
+2021-03-30T02:42:25.986Z - info: Rebuilding 5 pages
+2021-03-30T02:42:26.079Z - info: Site data built
+2021-03-30T02:42:26.079Z - info: Pages rebuilt
+2021-03-30T02:42:26.079Z - info: Website regeneration complete! Total build time: 0.094s
+2021-03-30T02:42:42.673Z - info: [10:42:42 am] Reload for file change: C:\Project\soristic\soristic_docs\index.md
+2021-03-30T02:42:43.675Z - info: Rebuilding 1 pages
+2021-03-30T02:42:43.719Z - info: Site data built
+2021-03-30T02:42:43.719Z - info: Pages rebuilt
+2021-03-30T02:42:43.719Z - info: Website regeneration complete! Total build time: 0.044s
+2021-03-30T02:43:44.982Z - info: [10:43:44 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\headers\header.md
+2021-03-30T02:43:45.989Z - info: Rebuilding 5 pages
+2021-03-30T02:43:46.085Z - info: Site data built
+2021-03-30T02:43:46.086Z - info: Pages rebuilt
+2021-03-30T02:43:46.086Z - info: Website regeneration complete! Total build time: 0.098s
+2021-03-30T02:43:58.594Z - info: Website generation started at 10:43:58 am
+2021-03-30T02:43:58.687Z - info: Building assets...
+2021-03-30T02:43:58.738Z - info: Assets built
+2021-03-30T02:43:58.739Z - info: Generating pages...
+2021-03-30T02:43:59.011Z - info: Pages built
+2021-03-30T02:43:59.100Z - info: Site data built
+2021-03-30T02:43:59.100Z - info: Website generation complete! Total build time: 0.545s
+2021-03-30T02:43:59.119Z - info: Serving "C:\Project\soristic\soristic_docs\_site" at http://127.0.0.1:8080
+2021-03-30T02:43:59.119Z - info: Press CTRL+C to stop ...
+2021-03-30T02:44:34.377Z - info: [10:44:34 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\variables.md
+2021-03-30T02:44:35.384Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-03-30T02:44:35.385Z - info: Rebuilding 5 pages
+2021-03-30T02:44:35.576Z - info: Site data built
+2021-03-30T02:44:35.577Z - info: Pages rebuilt
+2021-03-30T02:44:35.577Z - info: Website regeneration complete! Total build time: 0.196s
+2021-03-30T02:45:39.491Z - info: [10:45:39 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\variables.md
+2021-03-30T02:45:40.494Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-03-30T02:45:40.494Z - info: Rebuilding 5 pages
+2021-03-30T02:45:40.614Z - info: Site data built
+2021-03-30T02:45:40.615Z - info: Pages rebuilt
+2021-03-30T02:45:40.615Z - info: Website regeneration complete! Total build time: 0.123s
+2021-03-30T02:45:52.201Z - info: [10:45:52 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\variables.md
+2021-03-30T02:45:53.209Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-03-30T02:45:53.210Z - info: Rebuilding 5 pages
+2021-03-30T02:45:53.309Z - info: Site data built
+2021-03-30T02:45:53.309Z - info: Pages rebuilt
+2021-03-30T02:45:53.309Z - info: Website regeneration complete! Total build time: 0.101s
+2021-03-30T02:46:09.770Z - info: [10:46:09 am] Reload for file change: C:\Project\soristic\soristic_docs\contents\dashboard.md
+2021-03-30T02:46:10.785Z - info: Rebuilding 1 pages
+2021-03-30T02:46:10.808Z - info: Site data built
+2021-03-30T02:46:10.808Z - info: Pages rebuilt
+2021-03-30T02:46:10.808Z - info: Website regeneration complete! Total build time: 0.024s
+2021-03-30T03:25:01.131Z - info: Website generation started at 11:25:01 am
+2021-03-30T03:25:01.221Z - info: Building assets...
+2021-03-30T03:25:01.274Z - info: Assets built
+2021-03-30T03:25:01.274Z - info: Generating pages...
+2021-03-30T03:25:01.542Z - info: Pages built
+2021-03-30T03:25:01.634Z - info: Site data built
+2021-03-30T03:25:01.634Z - info: Website generation complete! Total build time: 0.546s
+2021-03-30T03:25:01.652Z - info: Serving "C:\Project\soristic\soristic_docs\_site" at http://127.0.0.1:8080
+2021-03-30T03:25:01.652Z - info: Press CTRL+C to stop ...
+2021-03-30T03:25:35.610Z - info: [11:25:35 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\variables.md
+2021-03-30T03:25:36.631Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-03-30T03:25:36.631Z - info: Rebuilding 5 pages
+2021-03-30T03:25:36.830Z - info: Site data built
+2021-03-30T03:25:36.831Z - info: Pages rebuilt
+2021-03-30T03:25:36.831Z - info: Website regeneration complete! Total build time: 0.205s
+2021-03-30T03:25:50.768Z - info: [11:25:50 am] Reload for file change: C:\Project\soristic\soristic_docs\contents\dashboard.md
+2021-03-30T03:25:51.783Z - info: Rebuilding 1 pages
+2021-03-30T03:25:51.811Z - info: Site data built
+2021-03-30T03:25:51.811Z - info: Pages rebuilt
+2021-03-30T03:25:51.811Z - info: Website regeneration complete! Total build time: 0.029s
+2021-03-30T03:26:04.462Z - info: [11:26:04 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\variables.md
+2021-03-30T03:26:05.475Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-03-30T03:26:05.475Z - info: Rebuilding 5 pages
+2021-03-30T03:26:05.586Z - info: Site data built
+2021-03-30T03:26:05.587Z - info: Pages rebuilt
+2021-03-30T03:26:05.587Z - info: Website regeneration complete! Total build time: 0.114s
+2021-03-30T03:26:43.286Z - info: Website generation started at 11:26:43 am
+2021-03-30T03:26:43.371Z - info: Building assets...
+2021-03-30T03:26:43.447Z - info: Assets built
+2021-03-30T03:26:43.448Z - info: Generating pages...
+2021-03-30T03:26:43.715Z - info: Pages built
+2021-03-30T03:26:43.799Z - info: Site data built
+2021-03-30T03:26:43.800Z - info: Website generation complete! Total build time: 0.551s
+2021-03-30T03:26:43.818Z - info: Serving "C:\Project\soristic\soristic_docs\_site" at http://127.0.0.1:8080
+2021-03-30T03:26:43.818Z - info: Press CTRL+C to stop ...
+2021-03-30T03:31:06.633Z - info: Website generation started at 11:31:06 am
+2021-03-30T03:31:06.729Z - info: Building assets...
+2021-03-30T03:31:06.778Z - info: Assets built
+2021-03-30T03:31:06.779Z - info: Generating pages...
+2021-03-30T03:31:07.042Z - info: Pages built
+2021-03-30T03:31:07.153Z - info: Site data built
+2021-03-30T03:31:07.154Z - info: Website generation complete! Total build time: 0.563s
+2021-03-30T03:31:07.171Z - info: Serving "C:\Project\soristic\soristic_docs\_site" at http://127.0.0.1:8080
+2021-03-30T03:31:07.172Z - info: Press CTRL+C to stop ...
+2021-03-30T03:39:32.610Z - info: [11:39:32 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\variables.md
+2021-03-30T03:39:33.616Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-03-30T03:39:33.617Z - info: Rebuilding 5 pages
+2021-03-30T03:39:33.803Z - info: Site data built
+2021-03-30T03:39:33.804Z - info: Pages rebuilt
+2021-03-30T03:39:33.804Z - info: Website regeneration complete! Total build time: 0.193s
+2021-03-30T03:40:12.657Z - info: [11:40:12 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\variables.md
+2021-03-30T03:40:13.666Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-03-30T03:40:13.666Z - info: Rebuilding 5 pages
+2021-03-30T03:40:13.788Z - info: Site data built
+2021-03-30T03:40:13.789Z - info: Pages rebuilt
+2021-03-30T03:40:13.789Z - info: Website regeneration complete! Total build time: 0.125s
+2021-03-30T03:40:23.583Z - info: [11:40:23 am] Reload for file change: C:\Project\soristic\soristic_docs\contents\dashboard.md
+2021-03-30T03:40:24.595Z - info: Rebuilding 1 pages
+2021-03-30T03:40:24.621Z - info: Site data built
+2021-03-30T03:40:24.621Z - info: Pages rebuilt
+2021-03-30T03:40:24.622Z - info: Website regeneration complete! Total build time: 0.028s
+2021-03-30T03:40:36.319Z - info: [11:40:36 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\variables.md
+2021-03-30T03:40:37.334Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-03-30T03:40:37.335Z - info: Rebuilding 5 pages
+2021-03-30T03:40:37.449Z - info: Site data built
+2021-03-30T03:40:37.450Z - info: Pages rebuilt
+2021-03-30T03:40:37.450Z - info: Website regeneration complete! Total build time: 0.118s
+2021-03-30T03:40:38.627Z - info: [11:40:38 am] Reload for file change: C:\Project\soristic\soristic_docs\contents\dashboard.md
+2021-03-30T03:40:39.642Z - info: Rebuilding 1 pages
+2021-03-30T03:40:39.645Z - error:  Template render error: (unknown path) [Line 18, Column 9]
+  expected variable end
+    at Object._prettifyError (C:\Users\User\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (C:\Users\User\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at Environment.renderString (C:\Users\User\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:77:15)
+    at VariableRenderer.render (C:\Users\User\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:96:17)
+    at VariableProcessor.renderSiteVariables (C:\Users\User\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:163:53)
+    at VariableProcessor.renderPage (C:\Users\User\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:448:17)
+    at C:\Users\User\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:878:57
+2021-03-30T03:40:39.646Z - warn:  Error: Error while generating undefined
+    at C:\Users\User\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1044:18
+2021-03-30T03:41:17.877Z - info: [11:41:17 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\variables.md
+2021-03-30T03:41:18.882Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-03-30T03:41:18.882Z - info: Rebuilding 5 pages
+2021-03-30T03:41:18.887Z - error:  Template render error: (unknown path) [Line 18, Column 9]
+  expected variable end
+    at Object._prettifyError (C:\Users\User\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (C:\Users\User\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at Environment.renderString (C:\Users\User\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:77:15)
+    at VariableRenderer.render (C:\Users\User\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:96:17)
+    at VariableProcessor.renderSiteVariables (C:\Users\User\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:163:53)
+    at VariableProcessor.renderPage (C:\Users\User\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:448:17)
+    at C:\Users\User\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:878:57
+2021-03-30T03:41:18.889Z - warn:  Error: Error while generating undefined
+    at C:\Users\User\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1044:18
+2021-03-30T03:41:21.258Z - info: [11:41:21 am] Reload for file change: C:\Project\soristic\soristic_docs\contents\dashboard.md
+2021-03-30T03:41:22.271Z - info: Rebuilding 1 pages
+2021-03-30T03:41:22.295Z - info: Site data built
+2021-03-30T03:41:22.295Z - info: Pages rebuilt
+2021-03-30T03:41:22.295Z - info: Website regeneration complete! Total build time: 0.024s
+2021-03-30T03:41:29.511Z - info: Website generation started at 11:41:29 am
+2021-03-30T03:41:29.621Z - info: Building assets...
+2021-03-30T03:41:29.671Z - info: Assets built
+2021-03-30T03:41:29.672Z - info: Generating pages...
+2021-03-30T03:41:29.936Z - info: Pages built
+2021-03-30T03:41:30.030Z - info: Site data built
+2021-03-30T03:41:30.031Z - info: Website generation complete! Total build time: 0.564s
+2021-03-30T03:41:30.050Z - info: Serving "C:\Project\soristic\soristic_docs\_site" at http://127.0.0.1:8080
+2021-03-30T03:41:30.050Z - info: Press CTRL+C to stop ...
+2021-03-30T03:43:22.368Z - info: [11:43:22 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\variables.md
+2021-03-30T03:43:23.381Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-03-30T03:43:23.381Z - info: Rebuilding 5 pages
+2021-03-30T03:43:23.572Z - info: Site data built
+2021-03-30T03:43:23.572Z - info: Pages rebuilt
+2021-03-30T03:43:23.573Z - info: Website regeneration complete! Total build time: 0.197s
+2021-03-30T03:47:33.263Z - info: [11:47:33 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\variables.md
+2021-03-30T03:47:34.276Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-03-30T03:47:34.276Z - info: Rebuilding 5 pages
+2021-03-30T03:47:34.398Z - info: Site data built
+2021-03-30T03:47:34.398Z - info: Pages rebuilt
+2021-03-30T03:47:34.398Z - info: Website regeneration complete! Total build time: 0.125s
+2021-03-30T03:56:04.275Z - info: [11:56:04 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\variables.md
+2021-03-30T03:56:05.286Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-03-30T03:56:05.286Z - info: Rebuilding 5 pages
+2021-03-30T03:56:05.395Z - info: Site data built
+2021-03-30T03:56:05.395Z - info: Pages rebuilt
+2021-03-30T03:56:05.395Z - info: Website regeneration complete! Total build time: 0.111s
+2021-03-30T04:01:19.527Z - info: [12:01:19 pm] Reload for file add: C:\Project\soristic\soristic_docs\tabulator_modern.css
+2021-03-30T04:01:20.549Z - info: Assets built
+2021-03-30T04:01:21.623Z - info: [12:01:21 pm] Reload for file deletion: C:\Project\soristic\soristic_docs\tabulator.min.css
+2021-03-30T04:01:22.639Z - debug: Assets removed
+2021-03-30T04:02:45.700Z - info: [12:02:45 pm] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\headers\header.md
+2021-03-30T04:02:46.715Z - info: Rebuilding 5 pages
+2021-03-30T04:02:46.728Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/tabulator.modern.css' found in file 'C:\Project\soristic\soristic_docs\_markbind\headers\header.md'
+2021-03-30T04:02:46.744Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/tabulator.modern.css' found in file 'C:\Project\soristic\soristic_docs\_markbind\headers\header.md'
+2021-03-30T04:02:46.751Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/tabulator.modern.css' found in file 'C:\Project\soristic\soristic_docs\_markbind\headers\header.md'
+2021-03-30T04:02:46.756Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/tabulator.modern.css' found in file 'C:\Project\soristic\soristic_docs\_markbind\headers\header.md'
+2021-03-30T04:02:46.804Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/tabulator.modern.css' found in file 'C:\Project\soristic\soristic_docs\_markbind\headers\header.md'
+2021-03-30T04:02:46.836Z - info: Site data built
+2021-03-30T04:02:46.837Z - info: Pages rebuilt
+2021-03-30T04:02:46.837Z - info: Website regeneration complete! Total build time: 0.122s
+2021-03-30T04:05:33.036Z - info: Website generation started at 12:05:32 pm
+2021-03-30T04:05:33.136Z - info: Building assets...
+2021-03-30T04:05:33.190Z - info: Assets built
+2021-03-30T04:05:33.191Z - info: Generating pages...
+2021-03-30T04:05:33.271Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/tabulator.modern.css' found in file 'C:\Project\soristic\soristic_docs\_markbind\headers\header.md'
+2021-03-30T04:05:33.283Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/tabulator.modern.css' found in file 'C:\Project\soristic\soristic_docs\_markbind\headers\header.md'
+2021-03-30T04:05:33.291Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/tabulator.modern.css' found in file 'C:\Project\soristic\soristic_docs\_markbind\headers\header.md'
+2021-03-30T04:05:33.298Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/tabulator.modern.css' found in file 'C:\Project\soristic\soristic_docs\_markbind\headers\header.md'
+2021-03-30T04:05:33.434Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/tabulator.modern.css' found in file 'C:\Project\soristic\soristic_docs\_markbind\headers\header.md'
+2021-03-30T04:05:33.497Z - info: Pages built
+2021-03-30T04:05:33.589Z - info: Site data built
+2021-03-30T04:05:33.589Z - info: Website generation complete! Total build time: 0.596s
+2021-03-30T04:05:33.609Z - info: Serving "C:\Project\soristic\soristic_docs\_site" at http://127.0.0.1:8080
+2021-03-30T04:05:33.609Z - info: Press CTRL+C to stop ...
+2021-03-30T04:08:12.150Z - info: [12:08:12 pm] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\headers\header.md
+2021-03-30T04:08:13.159Z - info: Rebuilding 5 pages
+2021-03-30T04:08:13.359Z - info: Site data built
+2021-03-30T04:08:13.360Z - info: Pages rebuilt
+2021-03-30T04:08:13.360Z - info: Website regeneration complete! Total build time: 0.202s
+2021-03-30T04:52:31.172Z - info: [12:52:31 pm] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\variables.md
+2021-03-30T04:52:32.182Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-03-30T04:52:32.183Z - info: Rebuilding 5 pages
+2021-03-30T04:52:32.329Z - info: Site data built
+2021-03-30T04:52:32.329Z - info: Pages rebuilt
+2021-03-30T04:52:32.330Z - info: Website regeneration complete! Total build time: 0.15s
+2021-03-30T04:54:14.490Z - info: [12:54:14 pm] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\variables.md
+2021-03-30T04:54:15.493Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-03-30T04:54:15.494Z - info: Rebuilding 5 pages
+2021-03-30T04:54:15.607Z - info: Site data built
+2021-03-30T04:54:15.607Z - info: Pages rebuilt
+2021-03-30T04:54:15.607Z - info: Website regeneration complete! Total build time: 0.116s
+2021-03-30T04:55:20.716Z - info: [12:55:20 pm] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\variables.md
+2021-03-30T04:55:21.734Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-03-30T04:55:21.735Z - info: Rebuilding 5 pages
+2021-03-30T04:55:21.847Z - info: Site data built
+2021-03-30T04:55:21.848Z - info: Pages rebuilt
+2021-03-30T04:55:21.848Z - info: Website regeneration complete! Total build time: 0.116s
+2021-03-30T04:56:22.310Z - info: [12:56:22 pm] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\variables.md
+2021-03-30T04:56:23.315Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-03-30T04:56:23.316Z - info: Rebuilding 5 pages
+2021-03-30T04:56:23.423Z - info: Site data built
+2021-03-30T04:56:23.423Z - info: Pages rebuilt
+2021-03-30T04:56:23.423Z - info: Website regeneration complete! Total build time: 0.11s
+2021-03-30T04:57:00.477Z - info: [12:57:00 pm] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\variables.md
+2021-03-30T04:57:01.489Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-03-30T04:57:01.490Z - info: Rebuilding 5 pages
+2021-03-30T04:57:01.582Z - info: Site data built
+2021-03-30T04:57:01.582Z - info: Pages rebuilt
+2021-03-30T04:57:01.583Z - info: Website regeneration complete! Total build time: 0.095s
+2021-03-30T05:35:10.790Z - info: Website generation started at 1:35:10 pm
+2021-03-30T05:35:10.893Z - info: Building assets...
+2021-03-30T05:35:10.955Z - info: Assets built
+2021-03-30T05:35:10.955Z - info: Generating pages...
+2021-03-30T05:35:11.259Z - info: Pages built
+2021-03-30T05:35:11.355Z - info: Site data built
+2021-03-30T05:35:11.355Z - info: Website generation complete! Total build time: 0.611s
+2021-03-30T05:35:11.376Z - info: Serving "C:\Project\soristic\soristic_docs\_site" at http://127.0.0.1:8080
+2021-03-30T05:35:11.377Z - info: Press CTRL+C to stop ...
+2021-03-30T05:35:16.785Z - info: [1:35:16 pm] Reload for file change: C:\Project\soristic\soristic_docs\index.md
+2021-03-30T05:35:17.798Z - info: Rebuilding 1 pages
+2021-03-30T05:35:17.868Z - info: Site data built
+2021-03-30T05:35:17.868Z - info: Pages rebuilt
+2021-03-30T05:35:17.869Z - info: Website regeneration complete! Total build time: 0.071s
+2021-03-30T05:35:28.594Z - info: [1:35:28 pm] Reload for file change: C:\Project\soristic\soristic_docs\index.md
+2021-03-30T05:35:29.606Z - info: Rebuilding 1 pages
+2021-03-30T05:35:29.719Z - info: Site data built
+2021-03-30T05:35:29.721Z - info: Pages rebuilt
+2021-03-30T05:35:29.721Z - info: Website regeneration complete! Total build time: 0.116s
+2021-03-30T05:35:35.984Z - info: [1:35:35 pm] Reload for file change: C:\Project\soristic\soristic_docs\index.md
+2021-03-30T05:35:37.000Z - info: Rebuilding 1 pages
+2021-03-30T05:35:37.066Z - info: Site data built
+2021-03-30T05:35:37.066Z - info: Pages rebuilt
+2021-03-30T05:35:37.066Z - info: Website regeneration complete! Total build time: 0.066s
+2021-03-30T05:35:49.881Z - info: [1:35:49 pm] Reload for file change: C:\Project\soristic\soristic_docs\index.md
+2021-03-30T05:35:50.895Z - info: Rebuilding 1 pages
+2021-03-30T05:35:50.963Z - info: Site data built
+2021-03-30T05:35:50.964Z - info: Pages rebuilt
+2021-03-30T05:35:50.964Z - info: Website regeneration complete! Total build time: 0.07s
+2021-03-30T05:36:22.551Z - info: [1:36:22 pm] Reload for file change: C:\Project\soristic\soristic_docs\index.md
+2021-03-30T05:36:23.559Z - info: Rebuilding 1 pages
+2021-03-30T05:36:23.620Z - info: Site data built
+2021-03-30T05:36:23.621Z - info: Pages rebuilt
+2021-03-30T05:36:23.621Z - info: Website regeneration complete! Total build time: 0.063s
+2021-03-30T05:36:33.528Z - info: Website generation started at 1:36:33 pm
+2021-03-30T05:36:33.621Z - info: Building assets...
+2021-03-30T05:36:33.671Z - info: Assets built
+2021-03-30T05:36:33.672Z - info: Generating pages...
+2021-03-30T05:36:33.986Z - info: Pages built
+2021-03-30T05:36:34.076Z - info: Site data built
+2021-03-30T05:36:34.076Z - info: Website generation complete! Total build time: 0.586s
+2021-03-30T05:36:34.095Z - info: Serving "C:\Project\soristic\soristic_docs\_site" at http://127.0.0.1:8080
+2021-03-30T05:36:34.095Z - info: Press CTRL+C to stop ...
+2021-03-30T05:36:58.360Z - info: [1:36:58 pm] Reload for file change: C:\Project\soristic\soristic_docs\index.md
+2021-03-30T05:36:59.378Z - info: Rebuilding 1 pages
+2021-03-30T05:36:59.498Z - info: Site data built
+2021-03-30T05:36:59.498Z - info: Pages rebuilt
+2021-03-30T05:36:59.499Z - info: Website regeneration complete! Total build time: 0.12s
+2021-03-30T05:38:40.272Z - info: [1:38:40 pm] Reload for file change: C:\Project\soristic\soristic_docs\site.json
+2021-03-30T05:38:41.281Z - info: Assets built
+2021-03-30T05:38:42.023Z - info: [1:38:42 pm] Reload for file change: C:\Project\soristic\soristic_docs\index.md
+2021-03-30T05:38:43.033Z - info: Rebuilding 1 pages
+2021-03-30T05:38:43.096Z - info: Site data built
+2021-03-30T05:38:43.097Z - info: Pages rebuilt
+2021-03-30T05:38:43.097Z - info: Website regeneration complete! Total build time: 0.065s
+2021-03-30T05:38:54.608Z - info: [1:38:54 pm] Reload for file change: C:\Project\soristic\soristic_docs\contents\dashboard.md
+2021-03-30T05:38:55.618Z - info: Rebuilding 1 pages
+2021-03-30T05:38:55.638Z - info: Site data built
+2021-03-30T05:38:55.638Z - info: Pages rebuilt
+2021-03-30T05:38:55.639Z - info: Website regeneration complete! Total build time: 0.021s
+2021-03-30T05:39:22.523Z - info: [1:39:22 pm] Reload for file change: C:\Project\soristic\soristic_docs\index.md
+2021-03-30T05:39:23.528Z - info: Rebuilding 1 pages
+2021-03-30T05:39:23.577Z - info: Site data built
+2021-03-30T05:39:23.577Z - info: Pages rebuilt
+2021-03-30T05:39:23.577Z - info: Website regeneration complete! Total build time: 0.05s
+2021-03-30T05:39:51.563Z - info: [1:39:51 pm] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md
+2021-03-30T05:39:52.569Z - info: Rebuilding 5 pages
+2021-03-30T05:39:52.676Z - info: Site data built
+2021-03-30T05:39:52.676Z - info: Pages rebuilt
+2021-03-30T05:39:52.677Z - info: Website regeneration complete! Total build time: 0.108s
+2021-03-30T05:40:26.334Z - info: [1:40:26 pm] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\variables.md
+2021-03-30T05:40:27.354Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-03-30T05:40:27.355Z - info: Rebuilding 5 pages
+2021-03-30T05:40:27.479Z - info: Site data built
+2021-03-30T05:40:27.481Z - info: Pages rebuilt
+2021-03-30T05:40:27.481Z - info: Website regeneration complete! Total build time: 0.133s
+2021-03-30T05:40:35.947Z - info: [1:40:35 pm] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\variables.md
+2021-03-30T05:40:36.953Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-03-30T05:40:36.953Z - info: Rebuilding 5 pages
+2021-03-30T05:40:37.046Z - info: Site data built
+2021-03-30T05:40:37.047Z - info: Pages rebuilt
+2021-03-30T05:40:37.047Z - info: Website regeneration complete! Total build time: 0.096s
+2021-03-30T05:40:59.984Z - info: [1:40:59 pm] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\headers\header.md
+2021-03-30T05:41:00.999Z - info: Rebuilding 5 pages
+2021-03-30T05:41:01.089Z - info: Site data built
+2021-03-30T05:41:01.089Z - info: Pages rebuilt
+2021-03-30T05:41:01.090Z - info: Website regeneration complete! Total build time: 0.09s
+2021-03-30T05:41:35.917Z - warn: Command 'clean' doesn't exist, run "markbind --help" to list commands.
+2021-03-30T05:41:50.793Z - info: Website generation started at 1:41:50 pm
+2021-03-30T05:41:50.881Z - info: Building assets...
+2021-03-30T05:41:50.934Z - info: Assets built
+2021-03-30T05:41:50.935Z - info: Generating pages...
+2021-03-30T05:41:51.182Z - info: Pages built
+2021-03-30T05:41:51.268Z - info: Site data built
+2021-03-30T05:41:51.268Z - info: Website generation complete! Total build time: 0.513s
+2021-03-30T05:41:51.268Z - info: Build success!
+2021-03-30T05:42:07.405Z - info: Deployed at https://tlylt.github.io/soristic_docs!

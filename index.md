@@ -116,3 +116,10 @@ Following actions require you to login with your account.
 - Close the page and changes should be reflected on homepage
 
 ---
+
+## Dashboard
+
+- View the dashboard at https://soristic.asia/internal-dashboard/
+- Key in the password
+- Click on the tab to see the table of data
+  ![example]({{baseUrl}}/dashboard.gif)

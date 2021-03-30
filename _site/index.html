@@ -26,6 +26,8 @@
 <body data-spy="scroll" data-target="#page-nav" data-offset="100">
   <div id="app">
     <header>
+      <link href="/tabulator_modern.css" rel="stylesheet">
+      <script type="text/javascript" src="/tabulator.min.js"></script>
       <navbar type="dark" class="temp-navbar">
         <a slot="brand" href="/soristic_docs/index.html" title="Home" class="navbar-brand">Soristic Docs</a>
         <li slot="right">
@@ -192,30 +194,14 @@
           <li>Close the page and changes should be reflected on homepage</li>
         </ul>
         <hr>
-        <p id="demo"></p>
-        <script>
-          var obj, dbParam, xmlhttp, myObj, x, txt = "";
-          obj = {
-            table: "customers",
-            limit: 20
-          };
-          dbParam = JSON.stringify(obj);
-          xmlhttp = new XMLHttpRequest();
-          xmlhttp.onreadystatechange = function() {
-            if (this.readyState == 4 && this.status == 200) {
-              myObj = JSON.parse(this.responseText);
-              txt += "<table border='1'>"
-              for (x in myObj) {
-                txt += "<tr><td>" + myObj[x].name + "</td></tr>";
-              }
-              txt += "</table>"
-              document.getElementById("demo").innerHTML = txt;
-            }
-          };
-          xmlhttp.open("POST", "https://x6wyx2.deta.dev/guide_data", true);
-          xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-          xmlhttp.send("x=" + dbParam);
-        </script>
+        <h2 id="dashboard"><span id="dashboard" class="anchor"></span>Dashboard<a class="fa fa-anchor" href="#dashboard" onclick="event.stopPropagation()"></a></h2>
+        <ul>
+          <li>View the dashboard at <a href="https://soristic.asia/internal-dashboard/">https://soristic.asia/internal-dashboard/</a></li>
+          <li>Key in the password</li>
+          <li>Click on the tab to see the table of data
+            <a href="/soristic_docs/dashboard.gif" target="_self"><img src="/soristic_docs/dashboard.gif" alt class="img-fluid"></a>
+          </li>
+        </ul>
         <p><i class="fa fa-arrow-circle-up fa-lg" id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true"></i></p>
       </div>
       <nav id="page-nav" class="navbar navbar-light bg-transparent">
@@ -228,6 +214,7 @@
               <a class="nav-link py-1" href="#blog-post">Blog post&#x200E;</a>
               <a class="nav-link py-1" href="#event">Event&#x200E;</a>
               <a class="nav-link py-1" href="#homepage-banner">Homepage banner&#x200E;</a>
+              <a class="nav-link py-1" href="#dashboard">Dashboard&#x200E;</a>
             </nav>
 
           </nav>
