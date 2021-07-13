@@ -80,9 +80,11 @@ Consists of
 - ‘character’s name’ folder
 - ‘character’ folder
 - ’videos’ folder
-This is compulsory for all games. 
 
-This is in the existing Youth and Senior games. Unless new games require new images for the following categories, else can reuse the images stored in the following folders
+These are compulsory for all games. 
+
+
+The following folders are in the existing Youth and Senior games. Unless new games require new images for the following categories, else can reuse the images stored in the following folders
 - ‘intro’ folder
 - ‘credits’ folder
 - ’wildcard’ folder
