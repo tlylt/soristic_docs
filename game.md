@@ -25,7 +25,7 @@ The game consists of the following components:
 For future additions of a game, given that the general settings/game logic does not deviate from existing setup, a game content in-charge can upload relevant media assets and fill in the JSON file for the new game content, then he/she will be able to generate a new set of game.
 
 ---
-
+https://github.com/chmeijun/soristic_docs
 # Game state
 Consists of
 - welcome (Greeting page, says what game this is)
@@ -55,7 +55,38 @@ Specifies the name of the game, this is shown on the first page of the game.
 Specifies the slides of the introduction that follows right after the pre game survey. Use of HTML syntax such as `<b> <br> <small>` is allowed for additional styling to bold, make line break, or make smaller. Background image is used on the content box.
 
 ## characters
-Keeps a list of characters, they are make of profile details and also the story of the character. The story lists out each scenario and what outcome is linked. The story always start with first node having id of 1. The updateState field keeps track of the numerical update to the meter values. The wildcards that are application to the character is also explicitly stated.
+Keeps a list of characters, they are make of profile details and also the story of the character. The story lists out each scenario and what outcome is linked. The story always start with first node having id of 1. The updateState field keeps track of the numerical update to the meter values. The wildcards that are application to the character is also explicitly stated under profile.
+
+
+<u>Profile consist of</u>
+- meter: starting values for date; health, social and wealth points.
+- meterMaxRange: the maximum value for health and social points to be set to 100
+- particulars: character's name; image URL for character's image; info consist of the introduction video file URL
+- wildcards: exact names of the wildcards that are applied to the character
+
+<u>Story consist of</u>
+- multiple objects
+  - for objects with whole number as id, they are the start of a story scene. e.g. id:1 refers to story scene 1. 
+    - id:
+    - text: edit game content and image file URL here
+    - options: array of the choices
+      - text
+      - updateState: update the points of each choice over here. For points that remain the same, no input is required. 
+      - next: input the id of the story scene (outcome) to direct user to after selecting this choice. 
+  - for objects with decimal number as id, they are the outcome of the respective choices made for each story scene. e.g. id:1.1 refers to the outcome of story scene 1 choice 1. 
+    - id
+    - text: edit game content and image file URL here
+    - options
+      - text: Continue 
+      - next: input the next id to direct user to the next story scene 
+  - the last 2 objects are the ending pages for the character
+    - id
+    - text: edit game content and URL links here
+    - options
+      - text: Next
+      - next: take note that the last object will ends with "next:-1".
+
+
 
 ## wildcards
 Keeps a list of descriptions for all wildcards available for that particular game.
@@ -96,7 +127,7 @@ Keeps a list of images with regards to the story lines. Each story line has 2-3 
 ## ‘character’ folder
 Keeps a list of game characters’ images, saved in PNG format, under their respective names. E.g. Arthur.png for Arthur in the Youth game.
 
-## ’videos’ folder
+## ‘videos’ folder
 Keeps a list of introduction videos of each character, saved in mp4 format, under their respective names. E.g. Arthur.mp4 for Arthur in Youth game. 
 
 ## ‘intro’ folder
@@ -105,5 +136,5 @@ Keeps a list of images used in the introduction of the game.
 ## ‘credits’ folder
 Keeps a list of images used in the ending page of the game. 
 
-## ’wildcard’ folder
+## ‘wildcard’ folder
 Keeps a list of background images of the respective wildcards.
