@@ -159,3 +159,12 @@
 2021-07-13T02:02:59.960Z - info: Press CTRL+C to stop ...
 2021-07-13T02:03:07.535Z - info: Deployed at https://tlylt.github.io/soristic_docs!
 2021-07-13T03:05:41.721Z - info: Deployed at https://tlylt.github.io/soristic_docs!
+2021-07-13T03:09:22.331Z - info: Website generation started at 11:09:22 am
+2021-07-13T03:09:22.431Z - info: Building assets...
+2021-07-13T03:09:22.488Z - info: Assets built
+2021-07-13T03:09:22.489Z - info: Generating pages...
+2021-07-13T03:09:22.790Z - info: Pages built
+2021-07-13T03:09:22.874Z - info: Site data built
+2021-07-13T03:09:22.874Z - info: Website generation complete! Total build time: 0.583s
+2021-07-13T03:09:22.874Z - info: Build success!
+2021-07-13T03:09:30.877Z - info: Deployed at https://tlylt.github.io/soristic_docs!
