@@ -18,6 +18,10 @@
       "title": "Soristic Docs"
     },
     {
+      "src": "game.md",
+      "title": "Game Development Guide"
+    },
+    {
       "glob": ["**/index.md", "**/*.+(md|mbd)"]
     }
   ],

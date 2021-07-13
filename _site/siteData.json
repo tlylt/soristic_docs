@@ -26,6 +26,29 @@
       "headingKeywords": {}
     },
     {
+      "src": "game.md",
+      "title": "Game Development Guide",
+      "headings": {
+        "introduction": "Introduction",
+        "game-state": "Game state",
+        "game-json-file": "Game JSON file",
+        "welcome": "welcome",
+        "intro": "intro",
+        "characters": "characters",
+        "wildcards": "wildcards",
+        "credits": "credits",
+        "uploading-resources": "Uploading Resources",
+        "in-each-game-folder": "In each game folder",
+        "character-s-name-folder": "‘character’s name’ folder",
+        "character-folder": "‘character’ folder",
+        "videos-folder": "’videos’ folder",
+        "intro-folder": "‘intro’ folder",
+        "credits-folder": "‘credits’ folder",
+        "wildcard-folder": "’wildcard’ folder"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "index.md",
       "title": "Soristic Docs",
       "headings": {

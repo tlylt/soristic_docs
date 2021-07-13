@@ -1,0 +1,160 @@
+2021-07-13T01:52:58.537Z - info: Website generation started at 9:52:58 am
+2021-07-13T01:52:58.671Z - info: Building assets...
+2021-07-13T01:52:58.730Z - info: Assets built
+2021-07-13T01:52:58.730Z - info: Generating pages...
+2021-07-13T01:52:58.978Z - info: Pages built
+2021-07-13T01:52:59.115Z - info: Site data built
+2021-07-13T01:52:59.115Z - info: Website generation complete! Total build time: 0.641s
+2021-07-13T01:52:59.133Z - info: Serving "C:\Project\soristic\soristic_docs\_site" at http://127.0.0.1:8080
+2021-07-13T01:52:59.134Z - info: Press CTRL+C to stop ...
+2021-07-13T01:55:03.347Z - info: [9:55:03 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md
+2021-07-13T01:55:04.351Z - info: Rebuilding 5 pages
+2021-07-13T01:55:04.532Z - info: Site data built
+2021-07-13T01:55:04.532Z - info: Pages rebuilt
+2021-07-13T01:55:04.533Z - info: Website regeneration complete! Total build time: 0.183s
+2021-07-13T01:55:11.852Z - info: [9:55:11 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md
+2021-07-13T01:55:12.856Z - info: Rebuilding 5 pages
+2021-07-13T01:55:12.962Z - info: Site data built
+2021-07-13T01:55:12.963Z - info: Pages rebuilt
+2021-07-13T01:55:12.963Z - info: Website regeneration complete! Total build time: 0.108s
+2021-07-13T01:55:16.084Z - info: [9:55:16 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md
+2021-07-13T01:55:17.098Z - info: Rebuilding 5 pages
+2021-07-13T01:55:17.189Z - info: Site data built
+2021-07-13T01:55:17.190Z - info: Pages rebuilt
+2021-07-13T01:55:17.190Z - info: Website regeneration complete! Total build time: 0.093s
+2021-07-13T01:55:25.337Z - info: [9:55:25 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md
+2021-07-13T01:55:26.349Z - info: Rebuilding 5 pages
+2021-07-13T01:55:26.445Z - info: Site data built
+2021-07-13T01:55:26.446Z - info: Pages rebuilt
+2021-07-13T01:55:26.446Z - info: Website regeneration complete! Total build time: 0.097s
+2021-07-13T01:55:32.076Z - info: [9:55:32 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md
+2021-07-13T01:55:33.086Z - info: Rebuilding 5 pages
+2021-07-13T01:55:33.181Z - info: Site data built
+2021-07-13T01:55:33.181Z - info: Pages rebuilt
+2021-07-13T01:55:33.181Z - info: Website regeneration complete! Total build time: 0.096s
+2021-07-13T01:55:38.382Z - info: [9:55:38 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md
+2021-07-13T01:55:39.394Z - info: Rebuilding 5 pages
+2021-07-13T01:55:39.474Z - info: Site data built
+2021-07-13T01:55:39.474Z - info: Pages rebuilt
+2021-07-13T01:55:39.474Z - info: Website regeneration complete! Total build time: 0.08s
+2021-07-13T01:55:48.117Z - info: [9:55:48 am] Reload for file change: C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md
+2021-07-13T01:55:49.124Z - info: Rebuilding 5 pages
+2021-07-13T01:55:49.133Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/soristic_docs/game.html' found in file 'C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md'
+2021-07-13T01:55:49.142Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/soristic_docs/game.html' found in file 'C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md'
+2021-07-13T01:55:49.147Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/soristic_docs/game.html' found in file 'C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md'
+2021-07-13T01:55:49.152Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/soristic_docs/game.html' found in file 'C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md'
+2021-07-13T01:55:49.189Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/soristic_docs/game.html' found in file 'C:\Project\soristic\soristic_docs\_markbind\navigation\site-nav.md'
+2021-07-13T01:55:49.213Z - info: Site data built
+2021-07-13T01:55:49.213Z - info: Pages rebuilt
+2021-07-13T01:55:49.213Z - info: Website regeneration complete! Total build time: 0.09s
+2021-07-13T01:56:24.495Z - info: [9:56:24 am] Reload for file change: C:\Project\soristic\soristic_docs\site.json
+2021-07-13T01:56:25.512Z - info: Assets built
+2021-07-13T01:56:33.355Z - info: [9:56:33 am] Reload for file add: C:\Project\soristic\soristic_docs\_markbind\game.md
+2021-07-13T01:56:34.365Z - info: Assets built
+2021-07-13T01:56:36.827Z - info: [9:56:36 am] Reload for file add: C:\Project\soristic\soristic_docs\game.md
+2021-07-13T01:56:36.928Z - info: [9:56:36 am] Reload for file deletion: C:\Project\soristic\soristic_docs\_markbind\game.md
+2021-07-13T01:56:37.839Z - info: Page added or removed, updating list of site's pages...
+2021-07-13T01:56:37.933Z - debug: Assets removed
+2021-07-13T01:56:37.934Z - warn: Rebuilding all pages...
+2021-07-13T01:56:37.934Z - info: Generating pages...
+2021-07-13T01:56:38.059Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/soristic_docs/contents/topic1.html' found in file 'C:\Project\soristic\soristic_docs\_markbind\layouts\default\header.md'
+2021-07-13T01:56:38.061Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/soristic_docs/contents/topic1.html' found in file 'C:\Project\soristic\soristic_docs\_markbind\layouts\default\navigation.md'
+2021-07-13T01:56:38.091Z - info: Pages built
+2021-07-13T01:56:49.164Z - info: [9:56:49 am] Reload for file change: C:\Project\soristic\soristic_docs\game.md
+2021-07-13T01:56:50.172Z - info: Rebuilding 1 pages
+2021-07-13T01:56:50.187Z - info: Site data built
+2021-07-13T01:56:50.188Z - info: Pages rebuilt
+2021-07-13T01:56:50.188Z - info: Website regeneration complete! Total build time: 0.017s
+2021-07-13T01:57:26.258Z - info: [9:57:26 am] Reload for file change: C:\Project\soristic\soristic_docs\game.md
+2021-07-13T01:57:27.272Z - info: Rebuilding 1 pages
+2021-07-13T01:57:27.293Z - info: Site data built
+2021-07-13T01:57:27.293Z - info: Pages rebuilt
+2021-07-13T01:57:27.294Z - info: Website regeneration complete! Total build time: 0.021s
+2021-07-13T01:57:29.852Z - info: [9:57:29 am] Reload for file change: C:\Project\soristic\soristic_docs\game.md
+2021-07-13T01:57:30.856Z - info: Rebuilding 1 pages
+2021-07-13T01:57:30.873Z - info: Site data built
+2021-07-13T01:57:30.874Z - info: Pages rebuilt
+2021-07-13T01:57:30.875Z - info: Website regeneration complete! Total build time: 0.018s
+2021-07-13T01:57:44.085Z - info: [9:57:44 am] Reload for file change: C:\Project\soristic\soristic_docs\game.md
+2021-07-13T01:57:45.096Z - info: Rebuilding 1 pages
+2021-07-13T01:57:45.129Z - info: Site data built
+2021-07-13T01:57:45.136Z - info: Pages rebuilt
+2021-07-13T01:57:45.136Z - info: Website regeneration complete! Total build time: 0.04s
+2021-07-13T01:58:01.500Z - info: [9:58:01 am] Reload for file change: C:\Project\soristic\soristic_docs\game.md
+2021-07-13T01:58:02.516Z - info: Rebuilding 1 pages
+2021-07-13T01:58:02.536Z - info: Site data built
+2021-07-13T01:58:02.538Z - info: Pages rebuilt
+2021-07-13T01:58:02.538Z - info: Website regeneration complete! Total build time: 0.022s
+2021-07-13T01:58:48.220Z - info: [9:58:48 am] Reload for file change: C:\Project\soristic\soristic_docs\game.md
+2021-07-13T01:58:49.232Z - info: Rebuilding 1 pages
+2021-07-13T01:58:49.319Z - info: Site data built
+2021-07-13T01:58:49.321Z - info: Pages rebuilt
+2021-07-13T01:58:49.321Z - info: Website regeneration complete! Total build time: 0.089s
+2021-07-13T01:59:02.972Z - info: [9:59:02 am] Reload for file change: C:\Project\soristic\soristic_docs\game.md
+2021-07-13T01:59:03.980Z - info: Rebuilding 1 pages
+2021-07-13T01:59:04.048Z - info: Site data built
+2021-07-13T01:59:04.049Z - info: Pages rebuilt
+2021-07-13T01:59:04.049Z - info: Website regeneration complete! Total build time: 0.07s
+2021-07-13T01:59:26.284Z - info: [9:59:26 am] Reload for file change: C:\Project\soristic\soristic_docs\game.md
+2021-07-13T01:59:27.298Z - info: Rebuilding 1 pages
+2021-07-13T01:59:27.365Z - info: Site data built
+2021-07-13T01:59:27.365Z - info: Pages rebuilt
+2021-07-13T01:59:27.366Z - info: Website regeneration complete! Total build time: 0.068s
+2021-07-13T01:59:36.740Z - info: [9:59:36 am] Reload for file change: C:\Project\soristic\soristic_docs\game.md
+2021-07-13T01:59:37.552Z - info: [9:59:37 am] Reload for file change: C:\Project\soristic\soristic_docs\game.md
+2021-07-13T01:59:37.747Z - info: Rebuilding 1 pages
+2021-07-13T01:59:37.816Z - info: Site data built
+2021-07-13T01:59:37.817Z - info: Pages rebuilt
+2021-07-13T01:59:37.818Z - info: Website regeneration complete! Total build time: 0.071s
+2021-07-13T01:59:45.510Z - info: [9:59:45 am] Reload for file change: C:\Project\soristic\soristic_docs\game.md
+2021-07-13T01:59:46.515Z - info: Rebuilding 1 pages
+2021-07-13T01:59:46.567Z - info: Site data built
+2021-07-13T01:59:46.567Z - info: Pages rebuilt
+2021-07-13T01:59:46.568Z - info: Website regeneration complete! Total build time: 0.053s
+2021-07-13T01:59:54.725Z - info: [9:59:54 am] Reload for file change: C:\Project\soristic\soristic_docs\game.md
+2021-07-13T01:59:55.741Z - info: Rebuilding 1 pages
+2021-07-13T01:59:55.784Z - info: Site data built
+2021-07-13T01:59:55.784Z - info: Pages rebuilt
+2021-07-13T01:59:55.784Z - info: Website regeneration complete! Total build time: 0.044s
+2021-07-13T01:59:58.404Z - info: [9:59:58 am] Reload for file change: C:\Project\soristic\soristic_docs\game.md
+2021-07-13T01:59:59.419Z - info: Rebuilding 1 pages
+2021-07-13T01:59:59.462Z - info: Site data built
+2021-07-13T01:59:59.463Z - info: Pages rebuilt
+2021-07-13T01:59:59.463Z - info: Website regeneration complete! Total build time: 0.045s
+2021-07-13T02:00:19.834Z - info: [10:00:19 am] Reload for file change: C:\Project\soristic\soristic_docs\game.md
+2021-07-13T02:00:20.839Z - info: Rebuilding 1 pages
+2021-07-13T02:00:20.891Z - info: Site data built
+2021-07-13T02:00:20.892Z - info: Pages rebuilt
+2021-07-13T02:00:20.892Z - info: Website regeneration complete! Total build time: 0.053s
+2021-07-13T02:00:44.448Z - info: [10:00:44 am] Reload for file change: C:\Project\soristic\soristic_docs\game.md
+2021-07-13T02:00:45.456Z - info: Rebuilding 1 pages
+2021-07-13T02:00:45.497Z - info: Site data built
+2021-07-13T02:00:45.497Z - info: Pages rebuilt
+2021-07-13T02:00:45.497Z - info: Website regeneration complete! Total build time: 0.042s
+2021-07-13T02:01:00.583Z - info: [10:01:00 am] Reload for file change: C:\Project\soristic\soristic_docs\game.md
+2021-07-13T02:01:01.595Z - info: Rebuilding 1 pages
+2021-07-13T02:01:01.642Z - info: Site data built
+2021-07-13T02:01:01.643Z - info: Pages rebuilt
+2021-07-13T02:01:01.643Z - info: Website regeneration complete! Total build time: 0.049s
+2021-07-13T02:01:26.542Z - info: [10:01:26 am] Reload for file change: C:\Project\soristic\soristic_docs\game.md
+2021-07-13T02:01:27.554Z - info: Rebuilding 1 pages
+2021-07-13T02:01:27.596Z - info: Site data built
+2021-07-13T02:01:27.597Z - info: Pages rebuilt
+2021-07-13T02:01:27.597Z - info: Website regeneration complete! Total build time: 0.043s
+2021-07-13T02:02:59.233Z - info: Website generation started at 10:02:59 am
+2021-07-13T02:02:59.380Z - info: Building assets...
+2021-07-13T02:02:59.446Z - info: Assets built
+2021-07-13T02:02:59.447Z - info: Generating pages...
+2021-07-13T02:02:59.815Z - info: Pages built
+2021-07-13T02:02:59.927Z - info: Site data built
+2021-07-13T02:02:59.928Z - info: Website generation complete! Total build time: 0.753s
+2021-07-13T02:02:59.960Z - info: Serving "C:\Project\soristic\soristic_docs\_site" at http://127.0.0.1:8080
+2021-07-13T02:02:59.960Z - info: Press CTRL+C to stop ...
+2021-07-13T02:03:07.535Z - info: Deployed at https://tlylt.github.io/soristic_docs!

@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="MarkBind 2.17.3">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Game Development Guide</title>
+  <link rel="stylesheet" href="markbind/css/bootstrap.min.css">
+  <link rel="stylesheet" href="markbind/css/bootstrap-vue.min.css">
+  <link rel="stylesheet" href="markbind/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="markbind/glyphicons/css/bootstrap-glyphicons.min.css">
+  <link rel="stylesheet" href="markbind/css/octicons.css">
+  <link rel="stylesheet" href="markbind/css/codeblock-dark.min.css">
+  <link rel="stylesheet" href="markbind/css/markbind.min.css">
+  <script src="markbind/js/polyfill.min.js"></script>
+  <script src="markbind/js/vue.min.js"></script>
+  <script src="markbind/js/markbind.min.js"></script>
+  <script src="markbind/js/jquery.min.js"></script>
+  <link rel="stylesheet" href="/soristic_docs/plugins/markbind-plugin-anchors/markbind-plugin-anchors.css">
+  <link rel="stylesheet" href="markbind/layouts/default/styles.css">
+</head>
+
+<body data-spy="scroll" data-target="#page-nav" data-offset="100">
+  <div id="app">
+    <header>
+      <link href="/tabulator_modern.css" rel="stylesheet">
+      <script type="text/javascript" src="/tabulator.min.js"></script>
+      <navbar type="dark" class="temp-navbar">
+        <a slot="brand" href="/soristic_docs/index.html" title="Home" class="navbar-brand">Soristic Docs</a>
+        <li slot="right">
+          <form class="navbar-form">
+            <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
+          </form>
+        </li>
+      </navbar>
+    </header>
+    <div id="flex-body">
+      <nav id="site-nav" class="navbar navbar-light bg-transparent">
+        <div class="border-right-grey nav-inner position-sticky slim-scroll">
+          <ul class="site-nav-list site-nav-list-root">
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/soristic_docs/index.html">Home 🏠</a></div>
+            </li>
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/soristic_docs/game.html" class="current">Game 😄</a></div>
+            </li>
+          </ul>
+        </div>
+      </nav>
+
+
+      <div id="content-wrapper">
+        <br>
+        <div class="jumbotron jumbotron-fluid bg-dark text-white">
+          <div class="container">
+            <h1 class="display-4 no-index" id="in-my-shoes"><span id="in-my-shoes" class="anchor"></span>In My Shoes<a class="fa fa-anchor" href="#in-my-shoes" onclick="event.stopPropagation()"></a></h1>
+            <p class="lead">Development Guide</p>
+          </div>
+        </div>
+        <h1 id="introduction"><span id="introduction" class="anchor"></span>Introduction<a class="fa fa-anchor" href="#introduction" onclick="event.stopPropagation()"></a></h1>
+        <p>The game consists of the following components:</p>
+        <ul>
+          <li>The web application that renders the game content and handles the game logic. This should be updated by a programmer, when there is a need to make modifications to the game.</li>
+          <li>The media resources that include images and videos. This is uploaded in DigitalOcean's storage space. They are typically separated by game and should follow the existing folder structure when adding a new set of game media assets for a new game.</li>
+          <li>The JSON file that specifies the game content for each version of the In My Shoes game. This should be updated by game content in-charge to ensure all textual information is up to date. The structure of the file must be followed and the convention used must not be violated in order to run the game successfully.</li>
+        </ul>
+        <p>For future additions of a game, given that the general settings/game logic does not deviate from existing setup, a game content in-charge can upload relevant media assets and fill in the JSON file for the new game content, then he/she will be able to generate a new set of game.</p>
+        <hr>
+        <h1 id="game-state"><span id="game-state" class="anchor"></span>Game state<a class="fa fa-anchor" href="#game-state" onclick="event.stopPropagation()"></a></h1>
+        <p>Consists of</p>
+        <ul>
+          <li>welcome (Greeting page, says what game this is)</li>
+          <li>pregame survey (Form to find out age group etc)</li>
+          <li>intro (Few slides on the game introduction)</li>
+          <li>character selection (Shows all available characters)</li>
+          <li>character information (Shows the selected character details)</li>
+          <li>story (Shows a series of scenarios)</li>
+          <li>wildcard (When triggered during story)</li>
+          <li>credit (ending page, allow for 'play again', feedback form)</li>
+          <li>postgame survey (enter from credit page)</li>
+        </ul>
+        <hr>
+        <h1 id="game-json-file"><span id="game-json-file" class="anchor"></span>Game JSON file<a class="fa fa-anchor" href="#game-json-file" onclick="event.stopPropagation()"></a></h1>
+        <p>Consists of</p>
+        <ul>
+          <li>welcome</li>
+          <li>intro</li>
+          <li>characters</li>
+          <li>wildcards</li>
+          <li>credits</li>
+        </ul>
+        <h2 id="welcome"><span id="welcome" class="anchor"></span>welcome<a class="fa fa-anchor" href="#welcome" onclick="event.stopPropagation()"></a></h2>
+        <p>Specifies the name of the game, this is shown on the first page of the game.</p>
+        <h2 id="intro"><span id="intro" class="anchor"></span>intro<a class="fa fa-anchor" href="#intro" onclick="event.stopPropagation()"></a></h2>
+        <p>Specifies the slides of the introduction that follows right after the pre game survey. Use of HTML syntax such as <code class="hljs inline no-lang" v-pre>&lt;b&gt; &lt;br&gt; &lt;small&gt;</code> is allowed for additional styling to bold, make line break, or make smaller. Background image is used on the content box.</p>
+        <h2 id="characters"><span id="characters" class="anchor"></span>characters<a class="fa fa-anchor" href="#characters" onclick="event.stopPropagation()"></a></h2>
+        <p>Keeps a list of characters, they are make of profile details and also the story of the character. The story lists out each scenario and what outcome is linked. The story always start with first node having id of 1. The updateState field keeps track of the numerical update to the meter values. The wildcards that are application to the character is also explicitly stated.</p>
+        <h2 id="wildcards"><span id="wildcards" class="anchor"></span>wildcards<a class="fa fa-anchor" href="#wildcards" onclick="event.stopPropagation()"></a></h2>
+        <p>Keeps a list of descriptions for all wildcards available for that particular game.</p>
+        <h2 id="credits"><span id="credits" class="anchor"></span>credits<a class="fa fa-anchor" href="#credits" onclick="event.stopPropagation()"></a></h2>
+        <p>Allow for additional logo or textual copy right information to be included for that particular game.</p>
+        <hr>
+        <p>P.S.
+          Stuff that I need your help to fill in</p>
+        <ul>
+          <li>how to upload resources</li>
+          <li>how to organize the file structure and naming</li>
+          <li>some details for the above JSON files</li>
+          <li>any other things u know when u edit the file that someone who will take over this should know...</li>
+        </ul>
+        <h1 id="uploading-resources"><span id="uploading-resources" class="anchor"></span>Uploading Resources<a class="fa fa-anchor" href="#uploading-resources" onclick="event.stopPropagation()"></a></h1>
+        <p>All images and videos files are to be uploaded onto <a href="https://cloud.digitalocean.com/spaces/soristic?i=099850&amp;path=pwd%2Fthomas%2F">https://cloud.digitalocean.com/spaces/soristic?i=099850&amp;path=pwd%2Fthomas%2F</a> via <a href="http://soristic.asia">soristic.asia</a> email account. The files can be found under Spaces. Next, click onto the space titled ‘soristic’, and the respective game folders are found. Click onto the respective game folders to upload the files accordingly.</p>
+        <h2 id="in-each-game-folder"><span id="in-each-game-folder" class="anchor"></span>In each game folder<a class="fa fa-anchor" href="#in-each-game-folder" onclick="event.stopPropagation()"></a></h2>
+        <p>Consists of</p>
+        <ul>
+          <li>‘character’s name’ folder</li>
+          <li>‘character’ folder</li>
+          <li>’videos’ folder
+            This is compulsory for all games.</li>
+        </ul>
+        <p>This is in the existing Youth and Senior games. Unless new games require new images for the following categories, else can reuse the images stored in the following folders</p>
+        <ul>
+          <li>‘intro’ folder</li>
+          <li>‘credits’ folder</li>
+          <li>’wildcard’ folder</li>
+        </ul>
+        <h2 id="character-s-name-folder"><span id="character-s-name-folder" class="anchor"></span>‘character’s name’ folder<a class="fa fa-anchor" href="#character-s-name-folder" onclick="event.stopPropagation()"></a></h2>
+        <p>Keeps a list of images with regards to the story lines. Each story line has 2-3 choices, each with image icon, e.g. Q1C1 stands for Question 1 Choice 1. Each choice has 1-3 outcome images, e.g. Q1C1R1, stands for Question 1 Choice 1 Row 1. For choices with 3 outcome images, e.g. Q1C1, the images attached are Q1C1R1, Q1C1R2 and Q3C1R3, displayed from left to right on the game app.</p>
+        <h2 id="character-folder"><span id="character-folder" class="anchor"></span>‘character’ folder<a class="fa fa-anchor" href="#character-folder" onclick="event.stopPropagation()"></a></h2>
+        <p>Keeps a list of game characters’ images, saved in PNG format, under their respective names. E.g. Arthur.png for Arthur in the Youth game.</p>
+        <h2 id="videos-folder"><span id="videos-folder" class="anchor"></span>’videos’ folder<a class="fa fa-anchor" href="#videos-folder" onclick="event.stopPropagation()"></a></h2>
+        <p>Keeps a list of introduction videos of each character, saved in mp4 format, under their respective names. E.g. Arthur.mp4 for Arthur in Youth game.</p>
+        <h2 id="intro-folder"><span id="intro-folder" class="anchor"></span>‘intro’ folder<a class="fa fa-anchor" href="#intro-folder" onclick="event.stopPropagation()"></a></h2>
+        <p>Keeps a list of images used in the introduction of the game.</p>
+        <h2 id="credits-folder"><span id="credits-folder" class="anchor"></span>‘credits’ folder<a class="fa fa-anchor" href="#credits-folder" onclick="event.stopPropagation()"></a></h2>
+        <p>Keeps a list of images used in the ending page of the game.</p>
+        <h2 id="wildcard-folder"><span id="wildcard-folder" class="anchor"></span>’wildcard’ folder<a class="fa fa-anchor" href="#wildcard-folder" onclick="event.stopPropagation()"></a></h2>
+        <p>Keeps a list of background images of the respective wildcards.
+          <i class="fa fa-arrow-circle-up fa-lg" id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true"></i>
+        </p>
+      </div>
+      <nav id="page-nav" class="navbar navbar-light bg-transparent">
+        <div class="border-left-grey nav-inner position-sticky slim-scroll">
+          <a class="navbar-brand page-nav-title" href="#">Game Development Guide</a>
+          <nav class="nav nav-pills flex-column my-0 small no-flex-wrap">
+            <a class="nav-link py-1" href="#introduction">Introduction&#x200E;</a>
+            <a class="nav-link py-1" href="#game-state">Game state&#x200E;</a>
+            <a class="nav-link py-1" href="#game-json-file">Game JSON file&#x200E;</a>
+            <nav class="nav nav-pills flex-column my-0 nested no-flex-wrap">
+              <a class="nav-link py-1" href="#welcome">welcome&#x200E;</a>
+              <a class="nav-link py-1" href="#intro">intro&#x200E;</a>
+              <a class="nav-link py-1" href="#characters">characters&#x200E;</a>
+              <a class="nav-link py-1" href="#wildcards">wildcards&#x200E;</a>
+              <a class="nav-link py-1" href="#credits">credits&#x200E;</a>
+            </nav>
+            <a class="nav-link py-1" href="#uploading-resources">Uploading Resources&#x200E;</a>
+            <nav class="nav nav-pills flex-column my-0 nested no-flex-wrap">
+              <a class="nav-link py-1" href="#in-each-game-folder">In each game folder&#x200E;</a>
+              <a class="nav-link py-1" href="#character-s-name-folder">‘character’s name’ folder&#x200E;</a>
+              <a class="nav-link py-1" href="#character-folder">‘character’ folder&#x200E;</a>
+              <a class="nav-link py-1" href="#videos-folder">’videos’ folder&#x200E;</a>
+              <a class="nav-link py-1" href="#intro-folder">‘intro’ folder&#x200E;</a>
+              <a class="nav-link py-1" href="#credits-folder">‘credits’ folder&#x200E;</a>
+              <a class="nav-link py-1" href="#wildcard-folder">’wildcard’ folder&#x200E;</a>
+            </nav>
+
+          </nav>
+        </div>
+      </nav>
+    </div>
+    <footer>
+
+      <div class="text-center">
+        <small>[This site is maintained by Yongliang, Generated by <a href="https://markbind.org/">MarkBind 2.17.3</a>]</small>
+      </div>
+    </footer>
+  </div>
+</body>
+<script src="markbind/js/bootstrap-utility.min.js"></script>
+<script>
+  const baseUrl = '/soristic_docs'
+  MarkBind.setupWithSearch()
+</script>
+<script src="markbind/layouts/default/scripts.js"></script>
+<script>
+  if (MarkBind.AfterSetup) MarkBind.AfterSetup()
+</script>
+
+</html>
