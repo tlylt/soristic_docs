@@ -41,10 +41,10 @@
         "in-each-game-folder": "In each game folder",
         "character-s-name-folder": "‘character’s name’ folder",
         "character-folder": "‘character’ folder",
-        "videos-folder": "’videos’ folder",
+        "videos-folder": "‘videos’ folder",
         "intro-folder": "‘intro’ folder",
         "credits-folder": "‘credits’ folder",
-        "wildcard-folder": "’wildcard’ folder"
+        "wildcard-folder": "‘wildcard’ folder"
       },
       "headingKeywords": {}
     },

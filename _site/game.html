@@ -97,7 +97,58 @@
         <h2 id="intro"><span id="intro" class="anchor"></span>intro<a class="fa fa-anchor" href="#intro" onclick="event.stopPropagation()"></a></h2>
         <p>Specifies the slides of the introduction that follows right after the pre game survey. Use of HTML syntax such as <code class="hljs inline no-lang" v-pre>&lt;b&gt; &lt;br&gt; &lt;small&gt;</code> is allowed for additional styling to bold, make line break, or make smaller. Background image is used on the content box.</p>
         <h2 id="characters"><span id="characters" class="anchor"></span>characters<a class="fa fa-anchor" href="#characters" onclick="event.stopPropagation()"></a></h2>
-        <p>Keeps a list of characters, they are make of profile details and also the story of the character. The story lists out each scenario and what outcome is linked. The story always start with first node having id of 1. The updateState field keeps track of the numerical update to the meter values. The wildcards that are application to the character is also explicitly stated.</p>
+        <p>Keeps a list of characters, they are make of profile details and also the story of the character. The story lists out each scenario and what outcome is linked. The story always start with first node having id of 1. The updateState field keeps track of the numerical update to the meter values. The wildcards that are application to the character is also explicitly stated under profile.</p>
+        <p><u>Profile consist of</u></p>
+        <ul>
+          <li>meter: starting values for date; health, social and wealth points.</li>
+          <li>meterMaxRange: the maximum value for health and social points to be set to 100</li>
+          <li>particulars: character's name; image URL for character's image; info consist of the introduction video file URL</li>
+          <li>wildcards: exact names of the wildcards that are applied to the character</li>
+        </ul>
+        <p><u>Story consist of</u></p>
+        <ul>
+          <li>multiple objects
+            <ul>
+              <li>for objects with whole number as id, they are the start of a story scene. e.g. id:1 refers to story scene 1.
+                <ul>
+                  <li>id</li>
+                  <li>text: edit game content and image file URL here</li>
+                  <li>options: array of the choices
+                    <ul>
+                      <li>text</li>
+                      <li>updateState: update the points of each choice over here. For points that remain the same, no input is required.</li>
+                      <li>next: input the id of the story scene (outcome) to direct user to after selecting this choice.</li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li>for objects with decimal number as id, they are the outcome of the respective choices made for each story scene. e.g. id:1.1 refers to the outcome of story scene 1 choice 1.
+                <ul>
+                  <li>id</li>
+                  <li>text: edit game content and image file URL here</li>
+                  <li>options
+                    <ul>
+                      <li>text: Continue</li>
+                      <li>next: input the next id to direct user to the next story scene</li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li>the last 2 objects are the ending pages for the character
+                <ul>
+                  <li>id</li>
+                  <li>text: edit game content and URL links here</li>
+                  <li>options
+                    <ul>
+                      <li>text: Next</li>
+                      <li>next: take note that the last object will ends with &quot;next:-1&quot;.</li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
         <h2 id="wildcards"><span id="wildcards" class="anchor"></span>wildcards<a class="fa fa-anchor" href="#wildcards" onclick="event.stopPropagation()"></a></h2>
         <p>Keeps a list of descriptions for all wildcards available for that particular game.</p>
         <h2 id="credits"><span id="credits" class="anchor"></span>credits<a class="fa fa-anchor" href="#credits" onclick="event.stopPropagation()"></a></h2>
@@ -131,16 +182,16 @@
         <p>Keeps a list of images with regards to the story lines. Each story line has 2-3 choices, each with image icon, e.g. Q1C1 stands for Question 1 Choice 1. Each choice has 1-3 outcome images, e.g. Q1C1R1, stands for Question 1 Choice 1 Row 1. For choices with 3 outcome images, e.g. Q1C1, the images attached are Q1C1R1, Q1C1R2 and Q3C1R3, displayed from left to right on the game app.</p>
         <h2 id="character-folder"><span id="character-folder" class="anchor"></span>‘character’ folder<a class="fa fa-anchor" href="#character-folder" onclick="event.stopPropagation()"></a></h2>
         <p>Keeps a list of game characters’ images, saved in PNG format, under their respective names. E.g. Arthur.png for Arthur in the Youth game.</p>
-        <h2 id="videos-folder"><span id="videos-folder" class="anchor"></span>’videos’ folder<a class="fa fa-anchor" href="#videos-folder" onclick="event.stopPropagation()"></a></h2>
+        <h2 id="videos-folder"><span id="videos-folder" class="anchor"></span>‘videos’ folder<a class="fa fa-anchor" href="#videos-folder" onclick="event.stopPropagation()"></a></h2>
         <p>Keeps a list of introduction videos of each character, saved in mp4 format, under their respective names. E.g. Arthur.mp4 for Arthur in Youth game.</p>
         <h2 id="intro-folder"><span id="intro-folder" class="anchor"></span>‘intro’ folder<a class="fa fa-anchor" href="#intro-folder" onclick="event.stopPropagation()"></a></h2>
         <p>Keeps a list of images used in the introduction of the game.</p>
         <h2 id="credits-folder"><span id="credits-folder" class="anchor"></span>‘credits’ folder<a class="fa fa-anchor" href="#credits-folder" onclick="event.stopPropagation()"></a></h2>
         <p>Keeps a list of images used in the ending page of the game.</p>
-        <h2 id="wildcard-folder"><span id="wildcard-folder" class="anchor"></span>’wildcard’ folder<a class="fa fa-anchor" href="#wildcard-folder" onclick="event.stopPropagation()"></a></h2>
-        <p>Keeps a list of background images of the respective wildcards.
-          <i class="fa fa-arrow-circle-up fa-lg" id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true"></i>
-        </p>
+        <h2 id="wildcard-folder"><span id="wildcard-folder" class="anchor"></span>‘wildcard’ folder<a class="fa fa-anchor" href="#wildcard-folder" onclick="event.stopPropagation()"></a></h2>
+        <p>Keeps a list of background images of the respective wildcards.</p>
+        <h6 id="maintainer-mei-jun"><span id="maintainer-mei-jun" class="anchor"></span>maintainer: mei jun<a class="fa fa-anchor" href="#maintainer-mei-jun" onclick="event.stopPropagation()"></a></h6>
+        <p><i class="fa fa-arrow-circle-up fa-lg" id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true"></i></p>
       </div>
       <nav id="page-nav" class="navbar navbar-light bg-transparent">
         <div class="border-left-grey nav-inner position-sticky slim-scroll">
@@ -161,10 +212,10 @@
               <a class="nav-link py-1" href="#in-each-game-folder">In each game folder&#x200E;</a>
               <a class="nav-link py-1" href="#character-s-name-folder">‘character’s name’ folder&#x200E;</a>
               <a class="nav-link py-1" href="#character-folder">‘character’ folder&#x200E;</a>
-              <a class="nav-link py-1" href="#videos-folder">’videos’ folder&#x200E;</a>
+              <a class="nav-link py-1" href="#videos-folder">‘videos’ folder&#x200E;</a>
               <a class="nav-link py-1" href="#intro-folder">‘intro’ folder&#x200E;</a>
               <a class="nav-link py-1" href="#credits-folder">‘credits’ folder&#x200E;</a>
-              <a class="nav-link py-1" href="#wildcard-folder">’wildcard’ folder&#x200E;</a>
+              <a class="nav-link py-1" href="#wildcard-folder">‘wildcard’ folder&#x200E;</a>
             </nav>
 
           </nav>

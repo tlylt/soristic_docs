@@ -1,0 +1,17 @@
+2021-07-14T04:04:06.162Z - info: Website generation started at 12:04:06 pm
+2021-07-14T04:04:06.315Z - info: Building assets...
+2021-07-14T04:04:06.378Z - info: Assets built
+2021-07-14T04:04:06.378Z - info: Generating pages...
+2021-07-14T04:04:06.692Z - info: Pages built
+2021-07-14T04:04:06.835Z - info: Site data built
+2021-07-14T04:04:06.835Z - info: Website generation complete! Total build time: 0.786s
+2021-07-14T04:04:06.836Z - info: Build success!
+2021-07-14T04:04:11.702Z - info: Website generation started at 12:04:11 pm
+2021-07-14T04:04:11.807Z - info: Building assets...
+2021-07-14T04:04:11.874Z - info: Assets built
+2021-07-14T04:04:11.875Z - info: Generating pages...
+2021-07-14T04:04:12.186Z - info: Pages built
+2021-07-14T04:04:12.263Z - info: Site data built
+2021-07-14T04:04:12.263Z - info: Website generation complete! Total build time: 0.6s
+2021-07-14T04:04:12.280Z - info: Serving "C:\Project\soristic\soristic_docs\_site" at http://127.0.0.1:8080
+2021-07-14T04:04:12.281Z - info: Press CTRL+C to stop ...
