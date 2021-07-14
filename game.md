@@ -25,7 +25,6 @@ The game consists of the following components:
 For future additions of a game, given that the general settings/game logic does not deviate from existing setup, a game content in-charge can upload relevant media assets and fill in the JSON file for the new game content, then he/she will be able to generate a new set of game.
 
 ---
-https://github.com/chmeijun/soristic_docs
 # Game state
 Consists of
 - welcome (Greeting page, says what game this is)
@@ -67,7 +66,7 @@ Keeps a list of characters, they are make of profile details and also the story 
 <u>Story consist of</u>
 - multiple objects
   - for objects with whole number as id, they are the start of a story scene. e.g. id:1 refers to story scene 1. 
-    - id:
+    - id
     - text: edit game content and image file URL here
     - options: array of the choices
       - text
